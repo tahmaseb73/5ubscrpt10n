@@ -1,7 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.192.108:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/ConfigsHub
-vless://090a442b-7adb-4c3f-a2d6-8dc22e9ec5c6@www.speedtest.net:2087?encryption=none&security=tls&sni=ch5.NewrEtR432as.INfO&type=ws&alpn=h2http/1.1&host=ch5.NewrEtR432as.INfO&path=/#Telegram:@IP_CF
-trojan://telegram-id-directvpn@18.202.126.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
-vless://v2rayvpn___official@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#[]t.me/ConfigsHub
 vless://0365ae80-dd78-47c5-a6f4-cc1fd4623816@77.239.99.180:15334/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=MrKbAyoy-dwMexaD87JOtfO_kFmCMIXjlJSFPOWMPyo&sid=c1#Telegram:@IP_CF
 vless://28d746a3-a60e-451c-bf9f-92233d43a7d5@104.17.148.22:8880?path=%2FFreeConfig%3Fed%3D2048&security=none&encryption=none&host=Alfred.Dnss-Mobile.ir&type=httpupgrade#[]t.me/MoftConfig
 trojan://Aimer@213.241.198.56:2083?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#[]t.me/MoftConfig
@@ -9998,3 +9994,7 @@ trojan://telegram-id-privatevpns@52.57.71.35:22222?security=tls&sni=trojan.burge
 trojan://telegram-id-privatevpns@15.236.107.145:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#[]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.38.221.138:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#[]t.me/ConfigsHub
 vless://67f788f8-c2ca-4fe9-ad36-d6927d84ad06@91.99.127.68:666?encryption=none&security=none&type=tcp&headerType=none#[]t.me/ConfigsHub
+vless://c443e676-d800-4150-ad48-39ceb095331f@8f.startrich.site:8441?security=none&encryption=none&type=ws#[]t.me/ConfigsHub
+vless://f1b6-ad92-43e4-a683-2bb0aeaa9846@104.18.26.90:80?path=%2FTelegram---%40FREEV2RNG---Telegram---%40FREEV2RNG---Telegram---%40FREEV2RNG---Telegram---%40FREEV2RNG%3Fed%3D2590&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#[]t.me/ConfigsHub
+ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.210:443#[]t.me/ConfigsHub
+vless://f46c96e3-6d0d-4099-e2dd-60008bc2ced6@91.99.150.28:443/?security=reality&encryption=none&pbk=TTjrKjLxbiUnRW0lTAsCQBVd4x-frmieZk-6GPRzXT8&host=%2F%3FJOKERRVPNTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN&headerType=none&fp=chrome&spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&type=tcp&sni=eset.com#[]t.me/ConfigsHub
