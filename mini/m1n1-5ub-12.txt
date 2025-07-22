@@ -1,3 +1,19 @@
+vless://26fc8b18-8f9a-4960-8686-3c00cf027280@167.99.189.36:39493?type=tcp&security=reality&pbk=A_KkC4kfUn6JpQjDaz5nBaTepXG7eQP3uGnAh60ri14&fp=random&sni=varzeshtviuwsofogleugvwsoyutruyrrteytmci.24digitalmarkting.ir&sid=3b191bba&spx=%2F#@MoftConfigCanadaToronto (Old Toronto)ping:105.19ms
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=SlZcZmPl2.ZuKaRiO.InFo&type=ws&alpn=h2http/1.1&host=SlZcZmPl2.ZuKaRiO.InFo&path=/#@MoftConfigCanadaTorontoping:9.72ms
+vless://telegram-id-ArV2ray@www.speedtest.net:8080?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry&security=none&encryption=none&host=Www.speedtest.net.e.4.salatinmaccv.ir.&type=ws#@MoftConfigCanadaTorontoping:9.5ms
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@178.128.79.58:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#@MoftConfigUnited StatesSanta Claraping:153.57ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.144:8880?security=none&sni=pqh27v6.nature27.shop&type=grpc&host=pqh27v6.nature27.shop#@MoftConfigMexicoMexico Cityping:93.41ms
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@134.209.51.162:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#@MoftConfigUnited StatesSanta Claraping:154.52ms
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@134.209.13.239:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#@MoftConfigUnited StatesSanta Claraping:154.71ms
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.27.97:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 
+vless://telegram-id-ArV2ray@www.speedtest.net:8080?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry&security=none&encryption=none&host=www.speedtest.net.b.7.salatinmaccv.ir.&type=ws#WS3-Irancell+%7C+%40ArV2ray
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.122.89:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 
+trojan://telegram-id-privatevpns@3.74.122.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.74.122.89:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+vless://217b2806-44e6-4d84-bd1e-8431a9dcfba5@147.182.150.230:5376?type=tcp&security=reality&pbk=pAkjrjLJqt7c3xA-hkNJlDNUZGut9H8ZpUej1zMoAFI&fp=safari&sni=yoast.com&sid=acf7d7&spx=%2FPOST#@MoftConfigCanadaToronto (Old Toronto)ping:104.93ms
+trojan://dQUWbcwECl@20.191.138.47:443?security=tls&sni=automq4-proxy.automq-sg.com&type=tcp&headerType=none#@MoftConfigSingaporeSingaporeping:197.59ms
+vless://telegram-id-ArV2ray@www.speedtest.net:8080?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry&security=none&encryption=none&host=www.speedtest.net.a.6.salatinmaccv.ir.&type=ws#@MoftConfigCanadaTorontoping:9.5ms
+vless://c0d3ba02-7d95-464e-90ca-8a89e46ab9b6@167.99.189.36:18172?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#@MoftConfigCanadaToronto (Old Toronto)ping:105.22ms
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.172.119.198:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#@MoftConfigUnited StatesSanta Claraping:155.73ms
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.172.125.153:59483?encryption=none&security=none&sni=&type=grpc&host=&path=#@MoftConfigUnited StatesSanta Claraping:153.66ms
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=KvXvLqMn5.ZuKaR.InFo&type=ws&alpn=h2http/1.1&host=KvXvLqMn5.ZuKaR.InFo&path=/#@MoftConfigCanadaTorontoping:9.72ms
@@ -9982,19 +9998,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRUJhbFVsa3paN0dGRUpBTWY1UDM4@77.83.246.74:4
 trojan://telegram-id-privatevpns@15.188.224.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/MoftConfig
 vless://1541cc38-7be8-4271-9822-bf554d4dc75a@85.133.236.4:6163?security=none&alpn=http%2F1.1&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#Telegram:@IP_CF
 vless://3ac9b0e2-0708-4a5e-981b-14570b1a984a@162.159.20.126:2052?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#@MoftConfigCanadaTorontoping:8.41ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqTlRQalh2T2dtN1dIWmZuV2ZwSmhG@194.87.45.189:443# 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.71.81:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfig 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.111.172:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfig 
-trojan://telegram-id-privatevpns@52.47.166.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)@MoftConfig
-trojan://telegram-id-privatevpns@15.188.224.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)@MoftConfig
-trojan://telegram-id-privatevpns@63.178.111.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)@MoftConfig
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.166.120:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfig 
-vless://ba1d7673-6f87-44be-8d1b-bbd2b20c2dea@104.17.148.22:80?mode=auto&path=%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=none&encryption=none&host=mother521.dgclix.ir&type=xhttp#[]t.me/MoftConfig
-vless://c05d6d23-b67b-4f00-ad57-a754a222ea83@2.irancella.blog:2089?security=reality&encryption=none&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e3c5c005cae07eb8#[]t.me/MoftConfig
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.224.253:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 
-vless://7338a824-7335-486b-b05c-8d8962239350@194.182.79.218:19608?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[]t.me/MoftConfig
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.35.100:443?mode=stream-one&path=%2Fkavir%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=tls&alpn=h2&encryption=none&host=89.144.35.100&fp=firefox&type=xhttp&sni=kavir.lnmarketplace.net#[]t.me/MoftConfig
-vless://6ba6c3ee-3324-4649-a58c-2a5241944bdf@ir.lunarmc.ir:2020?type=grpc&serviceName=&authority=&security=none#[]t.me/MoftConfig
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.16.110.113:443?sni=icecream.955850.xyz&allowInsecure=1#[]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bDhvSE1BRThmbkpjR283QTJEa1M2@194.87.45.189:443#[]t.me/MoftConfig
-trojan://Aimer@172.64.35.199:443?sni=epccz.ambercc.filegear-sg.me&allowInsecure=0#[]t.me/MoftConfig
