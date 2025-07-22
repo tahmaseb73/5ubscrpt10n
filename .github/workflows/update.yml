@@ -30,6 +30,10 @@ jobs:
           mv working/tr.txt protocols/
           mv working/m1n1-5ub-*.txt mini/
 
+          # اضافه کردن فایل‌های بزرگ به .gitignore
+          echo "full/5ubscrpt10n.txt" >> .gitignore
+          echo "full/5ubscrpt10n-b64.txt" >> .gitignore
+
           MINI_SUBS=$(ls mini/m1n1-5ub-*.txt | sort -V | awk '{print "https://raw.githubusercontent.com/${{ github.repository }}/main/"$0}')
 
           cat <<EOF > README.md
@@ -42,12 +46,6 @@ jobs:
           
           ** Some software/hardware might not import these subscriptions because they are too large **
 
-          ** Full Subscription (VLESS/VMESS/Shadowsocks/Trojan) **
-          https://raw.githubusercontent.com/${{ github.repository }}/main/full/5ubscrpt10n.txt
-          
-          ** Full Subscription ~ Base64 ~ (VLESS/VMESS/Shadowsocks/Trojan) **
-          https://raw.githubusercontent.com/${{ github.repository }}/main/full/5ubscrpt10n-b64.txt
-          
           ** Subscriptions by protocols **
           [VLESS]
           https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vl.txt
@@ -67,8 +65,9 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add .
-          git commit -m "⚡ $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+          git add .gitignore
+          git add README.md protocols/ mini/
+          git commit -m "⚡ $(date -u +"%Y-%m-%d %H:%M:%S UTC")" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
