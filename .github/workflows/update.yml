@@ -24,33 +24,33 @@ jobs:
       - name: Organize files
         run: |
           mkdir -p full protocols mini
-          mv working/5ubscrpt10n.txt full/
-          mv working/5ubscrpt10n-b64.txt full/
-          mv working/vm.txt protocols/
-          mv working/vl.txt protocols/
-          mv working/ss.txt protocols/
-          mv working/tr.txt protocols/
-          mv working/m1n1-5ub-*.txt mini/
+          mv working/5ubscrpt10n.txt full/ || true
+          mv working/5ubscrpt10n-b64.txt full/ || true
+          mv working/vm.txt protocols/ || true
+          mv working/vl.txt protocols/ || true
+          mv working/ss.txt protocols/ || true
+          mv working/tr.txt protocols/ || true
+          mv working/m1n1-5ub-*.txt mini/ || true
 
           # اضافه کردن فایل‌های بزرگ به .gitignore
           echo "full/5ubscrpt10n.txt" >> .gitignore
           echo "full/5ubscrpt10n-b64.txt" >> .gitignore
 
           # تولید README با قالب جدید
-          cat <<EOF > README.md
-# 🌐 VPN Subscriptions Hub
+          cat << 'EOF' > README.md
+# VPN Subscriptions Hub
 
 Welcome to the **VPN Subscriptions Hub**! This repository provides **hourly-updated** VPN configurations for protocols like VLESS, VMESS, Trojan, and Shadowsocks. Easily copy the links below and use them in your VPN client.
 
 > **Note:** Some software may not support large subscription files. Use the split files (10k lines each) for better compatibility.
 
-## 📋 Table of Contents
+## Table of Contents
 - [Subscriptions by Protocol](#subscriptions-by-protocol)
 - [Split Subscriptions](#split-subscriptions)
 - [How to Use](#how-to-use)
 - [Contribute](#contribute)
 
-## 🔗 Subscriptions by Protocol
+## Subscriptions by Protocol
 
 | Protocol        | Link                                                                 |
 |-----------------|----------------------------------------------------------------------|
@@ -59,21 +59,21 @@ Welcome to the **VPN Subscriptions Hub**! This repository provides **hourly-upda
 | **Trojan**      | [trojan://raw.githubusercontent.com/${{ github.repository }}/main/protocols/tr.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/tr.txt) |
 | **Shadowsocks** | [ss://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt) |
 
-## 📂 Split Subscriptions (10k Lines Each)
+## Split Subscriptions (10k Lines Each)
 
 For large configurations, use these split files:
 
 | File Name          | Link                                                                 |
 |--------------------|----------------------------------------------------------------------|
-$(ls mini/m1n1-5ub-*.txt | sort -V | awk '{print "| " $0 " | [" $0 "](https://raw.githubusercontent.com/${{ github.repository }}/main/" $0 ") |"}')
+$(ls mini/m1n1-5ub-*.txt 2>/dev/null | sort -V | awk '{print "| " $0 " | [" $0 "](https://raw.githubusercontent.com/${{ github.repository }}/main/" $0 ") |"}' || echo "")
 
-## 🚀 How to Use
+## How to Use
 
 1. Choose a protocol or split file from the links above.
 2. Copy the link and paste it into your VPN client's subscription field.
 3. Ensure your client supports the selected protocol (e.g., V2Ray, Clash, or Shadowsocks).
 
-## 🤝 Contribute
+## Contribute
 
 Found a new source for VPN subscriptions? Let us know by opening an issue in the [Repository Issues](https://github.com/${{ github.repository }}/issues)!
 
@@ -87,8 +87,7 @@ EOF
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add .gitignore
-          git add README.md protocols/ mini/
+          git add .gitignore README.md protocols/ mini/
           git commit -m "⚡ $(date -u +"%Y-%m-%d %H:%M:%S UTC")" || echo "No changes to commit"
           git push
         env:
