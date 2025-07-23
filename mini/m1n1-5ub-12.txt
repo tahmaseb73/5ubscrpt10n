@@ -1,4 +1,3 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#[]t.me/ConfigsHub
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@chop-wrist-bud.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#@MoftConfigUnited StatesQueensping:68.83ms
 vless://a8a424c8-0da6-44ee-ac8f-fa45e17ff2a1@32892393.web-manage.com.tr:3819?security=none&type=tcp&headerType=http&path=%2F&host=testspeed-foreign.tci.ir#@MoftConfigFinlandHelsinkiping:90.05ms
 vless://9e8c4793-f653-4839-9b8b-852496ef0e27@194.182.79.7:19123?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#@MoftConfigCzechiaPragueping:77.86ms
@@ -9998,3 +9997,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638829365493323451.qazvin-drc-dcraa
 vless://3befa0ef-6582-4bf0-a9c4-31d5d6e5e08f@www.speedtest.net:80?mode=auto&security=none&encryption=none&host=mother25.dgclix.ir&type=xhttp#[]t.me/ConfigsHub
 vless://8b3f5838-7129-4b8e-9ced-35c2940ca8bc@209.127.253.154:28957?security=none&encryption=none&headerType=none&type=tcp#@MoftConfigUnited StatesPiscatawayping:152.31ms
 vless://20cdfe1f-832f-4e81-9be4-38b8f7898a6c@188.245.104.160:2226?mode=gun&security=none&encryption=none&authority=Join_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=2226vless#Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTMzYzFkMC0wM2M0LTQ2MzUtYTA2ZS0zNmQwZGIwN2Y5YWQ@free.2apzhfa.xyz:31141#[]t.me/ConfigsHub

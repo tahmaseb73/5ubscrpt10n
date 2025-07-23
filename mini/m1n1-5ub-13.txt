@@ -1,4 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTMzYzFkMC0wM2M0LTQ2MzUtYTA2ZS0zNmQwZGIwN2Y5YWQ@free.2apzhfa.xyz:31141#[]t.me/ConfigsHub
 trojan://RlzoEILU@36.151.251.60:28296?allowInsecure=1&sni=cdn.egvra.cn#Telegram:@IP_CF
 vless://588f094b-431b-422c-b80b-007945037072@46.226.162.42:443?path=%2Fwebsocket&security=tls&encryption=none&fp=chrome&type=ws&sni=gbr01.abvpn.ru#@MoftConfigUnited KingdomLondonping:29.17ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTVc5VGhmOHhjOVhGMjdCcFZCalZs@194.87.216.218:52571#@MoftConfigThe NetherlandsAmsterdamping:31.19ms
@@ -9998,3 +9997,4 @@ vless://c2ecd018-3559-48ab-a879-44cf71098130@157.230.17.102:30206?security=none&
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2052?path=%2FahiWVFUV6Bj3gGKk%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#@MoftConfigCanadaTorontoping:8.76ms
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2052?path=%2FlaBjKYcEVdNBNCu9%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#@MoftConfigCanadaTorontoping:8.76ms
 vless://19bca0ea-541b-4fdc-bd49-5f66e7602dcf@57.129.29.160:2030?mode=gun&security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&type=grpc&serviceName=CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&sni=wordpress.org&sid=7fe29733#@MoftConfigGermanyLimburg an der Lahnping:33.93ms
+vless://e725dc8e-930e-4039-8df6-b8f4c862d427@135.181.231.239:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&host=%2FBIA_CHANEL%40JOKERRVPN&headerType=none&fp=firefox&spx=%2FCopy-az-chahnnel-JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#@MoftConfigFinlandHelsinkiping:13.74ms

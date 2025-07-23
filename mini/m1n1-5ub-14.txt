@@ -1,4 +1,3 @@
-vless://e725dc8e-930e-4039-8df6-b8f4c862d427@135.181.231.239:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&host=%2FBIA_CHANEL%40JOKERRVPN&headerType=none&fp=firefox&spx=%2FCopy-az-chahnnel-JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#@MoftConfigFinlandHelsinkiping:13.74ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#@MoftConfigRussiaObruchevoping:28.22ms
 vless://412edced-249e-4f49-a2f5-aa9546f0a6ba@arvancloud.fr.ir.systemgamingirani.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#@MoftConfigFranceParis (14th Arrondissement)ping:37.79ms
 vless://07e92313-af18-4c0f-bba7-898d8626ca59@49.12.5.195:24967?mode=auto&path=%2F%40vpnaloo---%40vpnaloo---%40vpnaloo---%40vpnaloo---%40vpnaloo---%40vpnaloo---%40vpnaloo---%40vpnaloo---%40vpnaloo---%40vpnaloo---%40vpnaloo---%40vpnaloo---%40vpnaloo---%40vpnaloo---%40vpnaloo---%40vpnaloo---%40vpnaloo---%40vpnaloo---&security=reality&encryption=none&pbk=pVe94UmKyL2-d7v0eYq8N4DnKPCKml4ntyrjqUa_zBU&host=zula.ir&fp=chrome&spx=%2F&type=xhttp&sni=ftp.debian.org&sid=83fc97ef#[]t.me/ConfigsHub
@@ -9998,3 +9997,4 @@ vless://c25dc3b6-3dd5-4c06-a211-7e40d03205c0@m1.baranbax.lat:1110?security=none&
 trojan://Aimer@188.164.159.241:2096?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#[]t.me/ConfigsHub
 vless://c25dc3b6-3dd5-4c06-a211-7e40d03205c0@fet-m1.pandu.lat:3333?security=none&encryption=none&headerType=http&type=tcp#[]t.me/ConfigsHub
 vless://8e72da07-0429-432e-8f0a-e9a3d4fc538f@151.101.2.133:80?security=none&type=ws&host=JOin.ELiV2-R-A-Y.io#[]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#Telegram:@IP_CF
