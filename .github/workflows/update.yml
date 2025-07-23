@@ -42,16 +42,21 @@ jobs:
           
           ** Some software/hardware might not import these subscriptions because they are too large **
           ** Subscriptions by protocols **
+          
           [VLESS]
           https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vl.txt
+          
           [VMESS]
           https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vm.txt
+          
           [TROJAN]
           https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/tr.txt
+          
           [SHADOWSOCKS]
           https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt
           
           ** Subscriptions in parts (10k lines per file) **
+          
           $MINI_SUBS
           \`\`\`
           EOF
