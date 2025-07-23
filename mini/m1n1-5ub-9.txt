@@ -1,3 +1,9 @@
+vless://ed39d11d-9965-4b4a-9e60-0924a3b084fd@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws#[]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:5000# @MoftConfigGermany
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.40.63:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#Telegram:@IP_CF
+trojan://telegram-id-directvpn@13.39.103.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[]t.me/MoftConfig
+vless://d88219c2-57d9-43a6-897a-ced23fa89195@www.speedtest.net:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.lightning6.ip-ddns.com.&type=ws# @MoftConfigCanada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZGY3YmE1Yy1lZDg2LTRkMDYtYTU1ZS1mZmI3YTdiZTRiNGQ@free.2apzhfa.xyz:31341#[]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.20:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[]t.me/MoftConfig
@@ -9992,9 +9998,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.60.115.181:22222?path=/telegram-
 trojan://telegram-id-directvpn@13.48.170.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.96.3:443/?path=%2FoiBBYyE4WkprI2wD%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOZArgAH.vaLIDbV7996.IR#@MoftConfigCanadaTorontoping:52.71ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.41:8880/?mode=gun&security=none&encryption=none&type=grpc#@MoftConfigUnited StatesSecaucusping:22.25ms
-vless://7e5813d0-e5ac-437c-ba4e-2f8c17a84aae@185.193.158.10:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=21181028b56c8702#@MoftConfigThe NetherlandsAmsterdamping:28.91ms
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.96.3:443?path=%2FoiBBYyE4WkprI2wD%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOZArgAH.vaLIDbV7996.IR#@MoftConfigCanadaTorontoping:52.72ms
-vless://6d91bc33-2d86-4839-9205-02024ff483c7@162.159.130.11:443/?security=tls&alpn=http%2F1.1&encryption=none&host=wtestfrtt.requesttest.cloudns.org&fp=chrome&type=ws&sni=wtestfrtt.requesttest.cloudns.org#@MoftConfigCanadaTorontoping:8.74ms
-vless://20a5527d-8b38-4f11-8bb1-bd125867e37c@45.94.213.163:45150/?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#@MoftConfigIranTehrnping:99.13ms
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.41:8880?mode=gun&security=none&encryption=none&type=grpc#@MoftConfigUnited StatesSecaucusping:22.19ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#@MoftConfigSingaporeSingapore (Pioneer)ping:257.95ms

@@ -7,16 +7,21 @@
 
 ** Some software/hardware might not import these subscriptions because they are too large **
 ** Subscriptions by protocols **
+
 [VLESS]
 https://raw.githubusercontent.com/tahmaseb73/5ubscrpt10n/main/protocols/vl.txt
+
 [VMESS]
 https://raw.githubusercontent.com/tahmaseb73/5ubscrpt10n/main/protocols/vm.txt
+
 [TROJAN]
 https://raw.githubusercontent.com/tahmaseb73/5ubscrpt10n/main/protocols/tr.txt
+
 [SHADOWSOCKS]
 https://raw.githubusercontent.com/tahmaseb73/5ubscrpt10n/main/protocols/ss.txt
 
 ** Subscriptions in parts (10k lines per file) **
+
 https://raw.githubusercontent.com/tahmaseb73/5ubscrpt10n/main/mini/m1n1-5ub-1.txt
 https://raw.githubusercontent.com/tahmaseb73/5ubscrpt10n/main/mini/m1n1-5ub-2.txt
 https://raw.githubusercontent.com/tahmaseb73/5ubscrpt10n/main/mini/m1n1-5ub-3.txt

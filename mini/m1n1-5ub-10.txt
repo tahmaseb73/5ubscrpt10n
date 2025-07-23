@@ -1,3 +1,9 @@
+vless://7e5813d0-e5ac-437c-ba4e-2f8c17a84aae@185.193.158.10:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=21181028b56c8702#@MoftConfigThe NetherlandsAmsterdamping:28.91ms
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.96.3:443?path=%2FoiBBYyE4WkprI2wD%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOZArgAH.vaLIDbV7996.IR#@MoftConfigCanadaTorontoping:52.72ms
+vless://6d91bc33-2d86-4839-9205-02024ff483c7@162.159.130.11:443/?security=tls&alpn=http%2F1.1&encryption=none&host=wtestfrtt.requesttest.cloudns.org&fp=chrome&type=ws&sni=wtestfrtt.requesttest.cloudns.org#@MoftConfigCanadaTorontoping:8.74ms
+vless://20a5527d-8b38-4f11-8bb1-bd125867e37c@45.94.213.163:45150/?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#@MoftConfigIranTehrnping:99.13ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.41:8880?mode=gun&security=none&encryption=none&type=grpc#@MoftConfigUnited StatesSecaucusping:22.19ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#@MoftConfigSingaporeSingapore (Pioneer)ping:257.95ms
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@www.speedtest.net:443?path=%2F3um9NK8jwisKz35E%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=photographipictureai.ir&fp=randomized&type=ws&sni=pHOTOgrApHipiCTureaI.IR#@MoftConfigCanadaTorontoping:15.28ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#@MoftConfigSingaporeSingapore (Pioneer)ping:180.5ms
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@188.114.96.3:443?path=%2FoiBBYyE4WkprI2wD%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gozargah.validbv7996.ir&fp=randomized&type=ws&sni=GOZArgAH.vaLIDbV7996.IR#@MoftConfigCanadaTorontoping:52.2ms
@@ -9992,9 +9998,3 @@ ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WVRjM01qZzRZamd0TTJFeFlpMDBaakZoTFdGbU5HVXRaRGN
 vless://fa149110-3364-4b5b-b3b2-c703452fe1c0@151.101.66.133:80?type=ws&host=Elenaaaaaaaaa.ir&path=/%43ha%6enel----%56%50N%43%55%53T%4fM%49%5a%45----%56%50N%43%55%53T%4fM%49%5a%45----%56%50N%43%55%53T%4fM%49%5a%45---%56%50N%43%55%53T%4fM%49%5a%45---%56%50N%43%55%53T%4fM%49%5a%45---%56%50N%43%55%53T%4fM%49%5a%45%3Fed%3D2048#[]t.me/ConfigsHub
 vless://51a29401-f065-4a8e-8cba-b4804ad27008@104.21.64.1:2096?security=tls&sni=vibe.orgspeed.net&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#[]t.me/ConfigsHub
 trojan://telegram-id-directvpn@16.170.28.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.43:7002#[]t.me/MoftConfig
-vless://51a29401-f065-4a8e-8cba-b4804ad27008@104.21.96.1:2096?security=tls&sni=vibe.orgspeed.net&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#[]t.me/MoftConfig
-vless://acb9dedd-fa08-476f-b21a-06f6b7ddde97@mw3.baradshops.ir:443?security=reality&encryption=none&pbk=HT5DfZtmmFSHXy__XWc1ukf2zJHRtCWJSc2mhcpptXc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=eset.com&sid=b6c6a4369cb8#[]t.me/ConfigsHub
-vless://def6e08c-b9ec-4257-86ef-475efaddd366@3233985.headsetabad.ir:59248?security=reality&encryption=none&pbk=8Kv7EfgfL25rSlPhosakuzPleZ4wWXN90dlh4Ti6FhA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=refersion.com#[]t.me/ConfigsHub
-vless://94d0f2e3-39e9-f0a6-7c2b-2b832e6e5636@37.156.46.65:6718?security=reality&encryption=none&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&headerType=none&fp=chrome&spx=%2FJOIN_BEDE_CHANEL%40MARAMBASHI_MARAMBASHI&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=d6d54c08fbbf895f#[]t.me/MoftConfig
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.227.31.227:59483?security=auto&type=grpc&fp=chrome#[]t.me/ConfigsHub

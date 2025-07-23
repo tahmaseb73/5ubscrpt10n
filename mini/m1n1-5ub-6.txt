@@ -1,3 +1,9 @@
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ@217.30.10.18:9037
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@147.78.1.230:989
+ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ@217.30.10.18:9059
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.20:38388
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@217.30.10.18:9094
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.237.185.160:989
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@176.103.53.105:989
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@221.132.29.208:38388
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@217.30.10.18:9011#%F0%9F%87%B5%F0%9F%87%B1%20PL-217.30.10.18%3A9011
@@ -9992,9 +9998,3 @@ vless://84cec1f6-8312-40da-b17a-4511e11a6026@178.20.208.134:2083?security=realit
 vless://84cec1f6-8312-40da-b17a-4511e11a6026@cyber.azar.ddns-ip.net:2083?security=reality&encryption=none&pbk=64ZzXuN3BNiYLcliMenVVbjdSX_jCpB-yvW7MTsz2n4&headerType=none&fp=chrome&spx=/azarandooz/login.aspx&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=4d932424dbe98b#RU_4395_@Surfboardv2ray
 vless://84e34a08-be9c-4e28-9a6b-6abf75abf366@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=mahdiserver.nanvrfood.ir.&type=httpupgrade#CA_4396_@Surfboardv2ray
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.6:19151?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#IR_4397_@Surfboardv2ray
-vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.8:19151?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#IR_4398_@Surfboardv2ray
-vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.8:19151?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#IR_4399_@Surfboardv2ray
-vless://850479d3-f804-4f12-a541-9bb3d083bf20@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#US_4400_@Surfboardv2ray
-vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.16.172.173:80?encryption=none&security=none&type=ws&host=aged-leaf-04aa-ppal03.midosib237.workers.dev&path=/?ed=2560#CA_4401_@Surfboardv2ray
-vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.24.52.41:80?encryption=none&security=none&type=ws&host=aged-leaf-04aa-ppal03.midosib237.workers.dev&path=/?ed=2560#CA_4402_@Surfboardv2ray
-vless://851517dc-09a9-4716-bf11-e386a5b648fa@t.nargil00.site:10260?security=&encryption=none&headerType=http&type=tcp#IR_4403_@Surfboardv2ray
