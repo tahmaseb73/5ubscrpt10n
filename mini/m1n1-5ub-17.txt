@@ -1,3 +1,62 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2F&security=&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#[]t.me/ConfigsHub
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.17.147.22:443?security=tls&sni=pHOTOgrApHipiCTureaI.IR&type=ws&host=photographipictureai.ir&path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[]t.me/ConfigsHub
+trojan://5a81db08-7af3-49a4-b089-b7a5b2c24c38@13.112.188.26:20230?security=tls&sni=jp008.421421.xyz&allowInsecure=1#[]t.me/ConfigsHub
+vless://e26f7c15-5805-4082-aa3c-91553d53cb03@195.200.77.228:443?path=%2FXRAYVPNHTTPUPGRADE&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=de1.blackismyfavorite.ir&fp=firefox&type=httpupgrade&sni=de1.blackismyfavorite.ir#[]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.187.141:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[]t.me/ConfigsHub
+vless://272a9b53-172b-4f7f-87aa-d70237de1648@Rocket.mrpro77.top:25054?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#[]t.me/ConfigsHub
+vless://42fdf9f8-0063-4713-bbf5-c0b9b05b25d3@FASTSHOVPNTELEGRAM.fast.hosting-ip.com:80?security=none&type=xhttp&headerType=&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&host=FASTSHOVPNTELEGRAM.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%2C+%22xmux%22%3A+%7B%22maxConcurrency%22%3A+%2216-32%22%2C+%22maxConnections%22%3A+0%2C+%22cMaxReuseTimes%22%3A+%2264-128%22%2C+%22cMaxLifetimeMs%22%3A+0%2C+%22hMaxRequestTimes%22%3A+%22800-900%22%2C+%22hKeepAlivePeriod%22%3A+0%7D%7D#[]t.me/ConfigsHub
+vless://f29f2451-044b-47d1-9f07-fdf29faf6b7c@151.101.192.155:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=&encryption=none&host=biantoZedmodeonyour-name.global.ssl.fastly.net&type=xhttp#[]t.me/ConfigsHub
+vless://e390c492-1049-4235-961d-93b61aa4336c@55cpezwl8e.the-dark-night.top:5167?security=none&encryption=none&headerType=http&type=tcp#[]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206NWE0OTcyODYtM2YwMi0zNDY0LTBkYTYtODQwZGI1NTkzOTll@99746684372800531648823124193897.international-ixp.com:11303#[]t.me/ConfigsHub
+vless://0d6c27d0-18bd-49a7-bc8e-954d08e5aea4@104.17.147.22:80?security=none&type=ws&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@51.21.140.248:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/ConfigsHub
+vless://1f048898-02fa-4b10-8081-a6b65184a80d@151.101.0.155:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=joinZEDMODEONyour-name.global.ssl.fastly.net&type=xhttp#[]t.me/ConfigsHub
+trojan://telegram-id-v2rayvpnchannel@34.250.74.151:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/ConfigsHub
+vless://1c190858-b415-45c8-b7a4-4209f77f512b@151.101.0.155:80?mode=auto&path=%2Fv2rayfree1vpn&security=&encryption=none&host=holandv2rayfree1vpn.global.ssl.fastly.net&type=xhttp#[]t.me/ConfigsHub
+vless://45920b77-3804-4b43-b664-37eabd1ea460@151.101.64.155:80?path=/%40XpnTeam/%40XpnTeam/%40XpnTeam/%40XpnTeam/%40XpnTeam/%40XpnTeam/%40XpnTeam/%40XpnTeam/%40XpnTeam/%40XpnTeam/%40XpnTeam/%40XpnTeam/%40XpnTeam/%40XpnTeam/%40XpnTeam/%40XpnTeam%3Fed%3D2048&security=&encryption=none&host=KEISJWJ.COM&type=ws#[]t.me/ConfigsHub
+vless://6bb5f6b6-c886-4c9e-ad98-ab6674d211b1@151.101.0.155:80?mode=auto&path=%2Fv2rayfree1vpn&security=none&encryption=none&host=v2rayfree1vpntelegram.global.ssl.fastly.net&type=xhttp#[]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WlRGa04yWTFZVEExWVdVeE16UXdNbVE1WkdSallXTmxaVE5oWm1JeQ==@thr.npvnot.com:10109#[]t.me/ConfigsHub
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@52.221.23.45:443?security=tls&sni=sg02.trojanyyds.xyz&allowInsecure=1#[]t.me/ConfigsHub
+vless://6bb5f6b6-c886-4c9e-ad98-ab6674d211b1@151.101.0.155:80?mode=auto&path=%2Fv2rayfree1vpn&security=&encryption=none&host=v2rayfree1vpntelegram.global.ssl.fastly.net&type=xhttp#[]t.me/ConfigsHub
+vless://b4f31041-f53a-4a86-8058-7771084888bf@v3.mesterking8786.cfd:38221?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#[]t.me/ConfigsHub
+vless://a6cd3631-4457-48da-bace-76c5e0bfa331@Lightning6.12speedtest.store:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed&security=&encryption=none&host=Lightning6.ir&type=ws#[]t.me/ConfigsHub
+vless://7e3b4e5a-483f-4c2d-957d-765137dbe186@h2.tikmarket1.site:2095?type=ws&path=/&security=none#[]t.me/ConfigsHub
+vless://45920b77-3804-4b43-b664-37eabd1ea460@151.101.64.155:80?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam%3Fed%3D2048&security=&encryption=none&host=KEISJWJ.COM&type=ws#[]t.me/ConfigsHub
+vless://6bb5f6b6-c886-4c9e-ad98-ab6674d211b1@151.101.3.8:80?mode=auto&path=%2Fv2rayfree1vpn&security=&encryption=none&host=v2rayfree1vpntelegram.global.ssl.fastly.net&type=xhttp#[]t.me/ConfigsHub
+vless://1c190858-b415-45c8-b7a4-4209f77f512b@151.101.0.155:80?encryption=none&security=none&type=xhttp&host=holandv2rayfree1vpn.global.ssl.fastly.net&path=%2Fv2rayfree1vpn&mode=auto#[]t.me/ConfigsHub
+vless://8f90b851-8f60-411a-ace2-efe1c1edda4b@62.60.159.189:443?encryption=none&security=tls&sni=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&path=%2Fws%3Fed%3D2560#[]t.me/ConfigsHub
+vless://8f90b851-8f60-411a-ace2-efe1c1edda4b@62.60.159.83:443?path=%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&fp=randomized&type=ws&sni=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com#[]t.me/ConfigsHub
+vless://0742d3cb-f567-4075-a479-d15dcc7a3ece@gertu.topvmmarket.shop:2086?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#[]t.me/ConfigsHub
+vless://e6d9aad0-5e20-4cb9-93eb-ab7fb6ecdd06@85.198.22.33:28815?encryption=none&security=none&type=ws&path=%2F#[]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206TWpCa056YzJOV0UyWTJRME1HSTFNMlJsWXpNNU5EVTROREEwTmpBdw%3D%3D@193.142.30.152:11107#[]t.me/ConfigsHub
+vless://8f90b851-8f60-411a-ace2-efe1c1edda4b@62.60.159.83:443?encryption=none&security=tls&sni=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&path=%2Fws%3Fed%3D2560#[]t.me/ConfigsHub
+vless://4b81c174-7d62-4d5b-9000-fe07e0468d9d@178.239.145.148:9435?encryption=none&security=none&type=tcp&headerType=http&host=docker.com#[]t.me/ConfigsHub
+vless://8f90b851-8f60-411a-ace2-efe1c1edda4b@62.60.159.191:443?encryption=none&security=tls&sni=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=de222.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&path=%2Fws%3Fed%3D2560#[]t.me/ConfigsHub
+vless://e26f7c15-5805-4082-aa3c-91553d53cb03@62.60.159.167:443?encryption=none&security=tls&sni=de1.blackismyfavorite.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox&type=httpupgrade&host=de1.blackismyfavorite.ir&path=%2FXRAYVPNHTTPUPGRADE#[]t.me/ConfigsHub
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@52.221.23.45:443?security=tls&sni=sg02.trojanyyds.xyz&allowInsecure=1#Telegram:@IP_CF
+vless://fde86c85-6d4d-420b-bfde-47687763517e@night.dl.darinips.com:443?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=firefox&type=tcp&sni=journalofbigdata.springeropen.com#[]t.me/ConfigsHub
+vless://448d41b1-afec-438b-97bb-3ad8d5032aba@supp.fixip3.top:90?path=%2F&security=&encryption=none&type=ws#[]t.me/ConfigsHub
+vless://cbc043ca-bef6-431b-a182-5ca6446253bb@mech.sharghidustrial.ir:443?path=%2F9GUmETb6BT7sPyZ4Bfz0qA&security=tls&alpn=http%2F1.1&encryption=none&host=mech.sharghidustrial.ir&fp=chrome&type=ws&sni=mech.sharghidustrial.ir#[]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNWRmMWY5NS1lNWZhLTQ0MDUtYjAzYi02M2E2MjhkZDkyMWU@free.2apzhfa.xyz:31145#[]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjVhYTU2Mi1kZWRmLTRmNWUtODE1Ny02MDY3MWU4YWViNjc@free.2weradf.xyz:36641#[]t.me/ConfigsHub
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.139.234:8443?security=tls&sni=official.taipeicitygovernment.com.ua&allowInsecure=1#[]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.116.25:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.2.165:80?security=none&type=ws&host=Join--VPNCUSTOMIZE---VPNCUSTOMIZE.IR&path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048#[]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZGY1M2RkYi1kMmFkLTQ4MzYtOWNiMC01M2Q3ZDM4MDcwMWQ@free.2weradf.xyz:36173#[]t.me/ConfigsHub
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@18.139.125.206:443?security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#[]t.me/ConfigsHub
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@54.179.246.16:443?security=tls&sni=jp.mjt001.com#[]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOTA3MmIzZC03ZWZhLTRiYmYtOGFkZi1mODg1ZjNlMzk3MTc@free.2apzhfa.xyz:31313#[]t.me/ConfigsHub
+vless://d5455ee6-6f9b-41d0-9043-ce160bff5e13@onhold.hamrahconfig.ir:1501?security=none&type=tcp&headerType=http&path=%2F&host=#[]t.me/ConfigsHub
+vless://5be71a37-5b15-49fe-a845-71559bc99f77@151.101.3.8:80?mode=auto&path=%2Ftelegram-KhOrOsVpN%2Ctelegram-KhOrOsVpN%2Ctelegram-KhOrOsVpN%2Ctelegram-KhOrOsVpN%2Ctelegram-KhOrOsVpN%2Ctelegram-KhOrOsVpN%2Ctelegram-KhOrOsVpN%2Ctelegram-KhOrOsVpN%2Ctelegram-KhOrOsVpN%2Ctelegram-KhOrOsVpN%2Ctelegram-KhOrOsVpN%2Ctelegram-KhOrOsVpN%3Fed%3D2560&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=biaberimdaryakenarindafe.com&type=xhttp#[]t.me/ConfigsHub
+vless://f33f9b91-c30d-47d4-9525-d4a661e00057@151.101.66.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v27.newbackup.com#[]t.me/ConfigsHub
+vless://17109402-2117-4357-8399-f054ee906ec8@104.21.96.1:2083?security=tls&sni=MaHDiservEr-q9i.PaGes.DeV&type=ws&host=mahdiserver-q9i.pages.dev&fp=chrome&alpn=h2,http/1.1#[]t.me/ConfigsHub
+vless://d5455ee6-6f9b-41d0-9043-ce160bff5e13@biography.com:80?security=none&type=ws&headerType=&path=%2Fdownload&host=Nazan.com#[]t.me/ConfigsHub
+vless://a6cd3631-4457-48da-bace-76c5e0bfa331@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=&encryption=none&host=Lightning6.ir&type=ws#[]t.me/ConfigsHub
+vless://d86ca3ed-1c63-42b0-bfac-4385e1aeaceb@151.101.3.8:80?path=%2Fdownload&security=&encryption=none&host=haledada.com&type=ws#[]t.me/ConfigsHub
+trojan://96cad374-7573-4463-8804-4665c2c3d932@52.77.220.89:6001?security=tls&sni=tj-hk-2.aikunapp.com&allowInsecure=1#[]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@80.92.204.106:9020#[]t.me/ConfigsHub
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@212.183.88.251:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=&encryption=none&host=cf.d3z.net&type=ws#[]t.me/ConfigsHub
+trojan://bpb-trojan@162.159.152.2:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net#[]t.me/ConfigsHub
 trojan://95b@154.211.8.90:443?security=tls&sni=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org#[]t.me/ConfigsHub
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co&type=ws&host=series-v1.samanehha.co&path=/43xf5zgeApzDAfhOHq#[]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@5.188.181.201:9054#[]t.me/ConfigsHub
@@ -3029,7 +3088,6 @@ vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?encryption=none&se
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@est01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2&type=tcp&headerType=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net#[]t.me/ConfigsHub
 vless://444fe3a5-6248-452d-be68-eac48c461a10@91.107.170.231:24070?mode=gun&security=reality&encryption=none&pbk=Wkuh9iexXuhWaaFt1saCWk8iGS0h1mEiMtDsmoJSgAk&fp=chrome&spx=%2F&type=grpc&serviceName=%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--&sni=yahoo.com&sid=93#[]t.me/ConfigsHub
 vless://2f6062b4-47a8-4e7e-a45f-890bd05b7964@65.109.208.147:46980?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=cLO22Vq2cIZoIKmLfvbNX5_PQi7G2QGY-XxzMFrGfRY&sid=6d58&spx=%2F&type=grpc&authority=&serviceName=t.me/entryNET&mode=gun#[]t.me/ConfigsHub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc#[]t.me/ConfigsHub
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@dl1-fi-cdn.easy-upload.org:80?path=%2F&security=none&encryption=none&host=dl1-fi-cdn.easy-upload.org&type=ws#[]t.me/ConfigsHub
 vless://c4e6a6ef-d782-4a12-a38a-906a61ee5bc1@104.21.48.1:2083?mode=auto&path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D2083%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&security=tls&alpn=h3&encryption=none&fp=chrome&type=xhttp&sni=cho.chonon.sbs#[]t.me/ConfigsHub
 vless://8938d63f-7dda-43be-9a1e-819adac28297@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=smiTs.joOjehtor.it.cOm&fp=chrome&type=ws&host=smiTs.joOjehtor.it.cOm&path=%2F#[]t.me/ConfigsHub
@@ -9940,61 +9998,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.26:5001# SS-TCP-NA  US-23.15
 ss://OTk2NzgwNzQtMTIyYy00NmRiLTk3ZmMtODBiNjA0YzIwMTU4Og==@104.18.28.181:8080# SS-TCP-NA  NA-104.18.28.181:8080
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.53:8881# SS-TCP-NA  US-69.50.95.53:8881
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.87:8881# SS-TCP-NA  US-23.157.40.87:8881
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.37.12.219:8080# SS-TCP-NA  FR-54.37.12.219:8080
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@217.182.198.219:6379# SS-TCP-NA  DE-217.182.198.219:6379
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.255.237.249:443# SS-TCP-NA  SG-54.255.237.249:443
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.110.1.105:9101# SS-TCP-NA  US-38.110.1.105:9101
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.92.55:7307# SS-TCP-NA  US-69.50.92.55:7307
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.101:5601# SS-TCP-NA  US-69.50.95.101:5601
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.53:8882# SS-TCP-NA  US-69.50.95.53:8882
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@107.181.155.244:55330# SS-TCP-NA  GB-107.181.155.244:55330
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.33:5003# SS-TCP-NA  US-38.75.136.33:5003
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMmxWdzdqQUxxSERSTkx3WERJQWxt@62.210.88.22:443# SS-TCP-NA  FR-62.210.88.22:443
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.103:3389# SS-TCP-NA  US-23.157.40.103:3389
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@145.239.6.202:8881# SS-TCP-NA  FR-145.239.6.202:8881
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko=@159.65.149.72:51348# SS-TCP-NA  IN-159.65.149.72:51348
-ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@45.89.52.66:9005# SS-TCP-NA  TR-45.89.52.66:9005
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.29.47:443# SS-TCP-NA  KR-43.201.29.47:443
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.95.191:7306# SS-TCP-NA  US-69.50.95.191:7306
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.86.135.117:5499# SS-TCP-NA  US-38.86.135.117:5499
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.134.202:8000# SS-TCP-NA  US-38.68.134.202:8000
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7001# SS-TCP-NA  US-38.121.43.97:7001
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.105:443# SS-TCP-NA  US-38.110.1.105:443
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.150.152.16:443# SS-TCP-NA  US-23.150.152.16:443
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.218:8090# SS-TCP-NA  US-69.50.95.218:8090
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.179:3389# SS-TCP-NA  US-69.50.95.179:3389
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.30.85:443# SS-TCP-NA  AE-40.172.30.85:443
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.225:9090# SS-TCP-NA  US-15.204.87.225:9090
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206T1daaVlUQTFOMlptTW1NeU5HWTJNVEV5TXpoa05UWXlPVGMzWldNNE5XVT06Tmpaa1lqaGtPVGd0TURaa05TMDBOakkwTFdKa1l6UXRPV1V3TVRSbVlqTT0=@116.202.5.72:10089# SS-TCP-NA  DE-116.202.5.72:10089
-ss://MzJmMDliNzAtZDJmNy0xMWVlLWFiZGEtMDA1MDU2MDNlNzBkOg==@104.21.49.18:443# SS-TCP-NA  NA-104.21.49.18:443
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.16:2376# SS-TCP-NA  US-23.150.152.16:2376
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.204:8090# SS-TCP-NA  US-38.121.43.204:8090
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@15.204.87.225:8118# SS-TCP-NA  US-15.204.87.225:8118
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.142.216:7002# SS-TCP-NA  US-169.197.142.216:7002
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.203:8888# SS-TCP-NA  US-69.50.95.203:8888
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.110.1.102:6697# SS-TCP-NA  US-38.110.1.102:6697
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYlk2PXpHdUZs@150.241.95.63:37774# SS-TCP-NA  DE-150.241.95.63:37774
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.95.39:9101# SS-TCP-NA  US-69.50.95.39:9101
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.89:7307# SS-TCP-NA  US-23.157.40.89:7307
-ss://auto@185.146.173.158:443# SS-TCP-NA  SE-185.146.173.158:443
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.197:5003# SS-TCP-NA  US-38.110.1.197:5003
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.89:5499# SS-TCP-NA  US-23.157.40.89:5499
-ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@80.92.204.106:9019# SS-TCP-NA  DE-80.92.204.106:9019
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.95.191:5003# SS-TCP-NA  US-69.50.95.191:5003
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@57.180.49.182:443# SS-TCP-NA  JP-57.180.49.182:443
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.49.122:7306# SS-TCP-NA  US-142.202.49.122:7306
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.110.1.105:8118# SS-TCP-NA  US-38.110.1.105:8118
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.89:9102# SS-TCP-NA  US-23.157.40.89:9102
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5001# SS-TCP-NA  FR-149.202.82.172:5001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080# SS-TCP-NA  LT-45.87.175.166:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsLUNvd1ZtNGVkY2YyZ3AtV2NKRDFn@45.14.247.49:5555# SS-TCP-NA  DE-45.14.247.49:5555
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZDEyZjc5ZS0zMjA5LTQ5NzAtODNjZC01ZTFmMzUyNmZmNTE=@91.103.122.32:48492# SS-TCP-NA  HK-91.103.122.32:48492
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443# SS-TCP-NA  GB-212.102.53.195:443
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.33:8888# SS-TCP-NA  US-38.75.136.33:8888
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.49.84:8118# SS-TCP-NA  US-142.202.49.84:8118
-ss://YmFhZGZlYzMtNzViZC00ZGYwLWFkNmItMmVjZGZkZmU5ZDUyOg==@104.21.42.56:80# SS-TCP-NA  NA-104.21.42.56:80
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.49.119:6379# SS-TCP-NA  US-142.202.49.119:6379
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.89:8008# SS-TCP-NA  US-23.157.40.89:8008
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.89:7002# SS-TCP-NA  US-23.157.40.89:7002
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoV2RpNmdkYjFyc0JZM1JWUEpOWnBu@212.113.106.76:29149# SS-TCP-NA  AT-212.113.106.76:29149
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989# SS-TCP-NA  SE-121.127.46.147:989
