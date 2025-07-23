@@ -1,8 +1,3 @@
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@140.99.233.249:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#[]t.me/MoftConfig
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.13.55.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#@MoftConfigPolandWarsawping:8.84ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.197.108.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#@MoftConfigCzechiaPragueping:8.1ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.161.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F#@MoftConfigUnited StatesWashington D.C.ping:8.43ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.180.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#@MoftConfigUkraineKyivping:9.05ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.114:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F#@MoftConfigBelizeBelize Cityping:8.66ms
 vless://db7efc3c-f4d5-447b-8a91-a3a2c33e9556@iranserver.com:2052?type=ws&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&host=wWw.SpeedtesT.net.mAzMaznet.store.&security=none#[]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206YTg2OWJhN2UtZTQ2Yy00NmJmLTlkMGEtMmE0ZGRlY2MwNjI3@fell4.dogsvpn.top:7705#@MoftConfigBrazilTaboo da Serraping:221.76ms
@@ -9998,3 +9993,8 @@ vmess://eyJhZGQiOiJ0Y2kxLnRpYW1vY2kudXMua2ciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoi
 vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@195.206.242.222:2053?path=%2FTG%40ShadowProxy66%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=jj.wxgqlfx.cn&fp=random&type=ws&sni=jj.wxgqlfx.cn#[]t.me/ConfigsHub
 vless://6bc468b2-ba93-4110-a18d-731384174a7d@13.49.158.149:8880?mode=stream-up&path=%2Fkiava-telegram%2F%3FBIA_CHANEL%40JOKERRVPN&security=reality&encryption=none&pbk=YxbP0XhtubaCLyJZnaqk8vKs75YdoB_lSnCsuHkdJxU&host=weather.com&fp=chrome&spx=%2FBIA_CHANEL%40JOKERRVPN&type=xhttp&sni=weather.com&sid=79f39272#[]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTAzLjMwLjc2LjY2IiwicG9ydCI6IjEzNjUxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjY4MzFjOWNlLTRjYTgtNDJjMC04MTgxLWZiMTA1NTcxMGNjYyIsInNuaSI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YjI3OWY5Zi1jZjhjLTRkNzgtOGNmYy1hMDc4Zjc0OWNiZGU@free.2weradf.xyz:36141#[]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#Telegram:@IP_CF
+vmess://eyJhZGQiOiIxNTcuMTgwLjExMy42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhiZmU1NzFlLWVmZDgtNDM0Zi1iYjI1LTlmYjlmMGU5ZTFkYyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjkzMDEiLCJwcyI6Ilvwn4er8J+Hrl10Lm1lL0NvbmZpZ3NIdWIgLCxBbGwsLCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://f475c570-eba2-4a74-9948-d22ce8492aff@geshop.spsvps.com:2096?security=reality&type=grpc&headerType=&serviceName=xyz&authority=&mode=gun&sni=ame.spsvps.com&fp=chrome&pbk=OUS-F8whgCGs88wPa0OCXmtG5CLvjlQqIaUlxlfORSU&sid=912b3651ba437e7c&spx=%2Fenmarp2.spsvps.xyz#[]t.me/ConfigsHub
+vless://f475c570-eba2-4a74-9948-d22ce8492aff@ennod.spsvps.com:2096?security=reality&type=grpc&headerType=&serviceName=xyz&authority=&mode=gun&sni=ame.spsvps.com&fp=chrome&pbk=OUS-F8whgCGs88wPa0OCXmtG5CLvjlQqIaUlxlfORSU&sid=912b3651ba437e7c&spx=%2Fenmarp2.spsvps.xyz#[]t.me/ConfigsHub
