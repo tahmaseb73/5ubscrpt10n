@@ -6,7 +6,6 @@
 ** Just copy the needed link and paste it into the program **
 
 ** Some software/hardware might not import these subscriptions because they are too large **
-
 ** Subscriptions by protocols **
 [VLESS]
 https://raw.githubusercontent.com/tahmaseb73/5ubscrpt10n/main/protocols/vl.txt
