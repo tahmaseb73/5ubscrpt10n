@@ -32,7 +32,7 @@ jobs:
           # اضافه کردن فایل‌های بزرگ به .gitignore
           echo "full/5ubscrpt10n.txt" >> .gitignore
           echo "full/5ubscrpt10n-b64.txt" >> .gitignore
-          MINI_SUBS=$(ls mini/5ub-*.txt 2>/dev/null | sort -V | awk '{print "| " $0 " | [" $0 "](https://raw.githubusercontent.com/${{ github.repository }}/main/" $0 ") |"}' || echo "| No split files available | |")
+          MINI_SUBS=$(ls mini/m1n1-5ub-*.txt 2>/dev/null | sort -V | awk '{print "| " $0 " | [" $0 "](https://raw.githubusercontent.com/${{ github.repository }}/main/" $0 ") |"}' || echo "| No split files available | |")
           # تولید README با قالب جدید
           cat << EOF > README.md
 # VPN Subscriptions Hub
@@ -43,7 +43,7 @@ This repository provides **hourly-updated** VPN configurations for protocols lik
 
 ## Table of Contents
 - [Subscriptions by Protocol](#subscriptions-by-protocol)
-- [Split Subscriptions](#split-subscriptions-10k-lines-each)
+- [Split Subscriptions](#split-subscriptions)
 - [How to Use](#how-to-use)
 - [Contribute](#contribute)
 
@@ -66,7 +66,7 @@ $MINI_SUBS
 
 ## How to Use
 
-1. Choose a protocol or split فایل from the links above.
+1. Choose a protocol or split file from the links above.
 2. Copy the link and paste it into your VPN client's subscription field.
 3. Ensure your client supports the selected protocol (e.g., V2Ray, Clash, or Shadowsocks).
 
