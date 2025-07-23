@@ -4,8 +4,6 @@ on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
-  push:
-    branches: [ main ]
 
 jobs:
   update-subscriptions:
@@ -36,6 +34,9 @@ jobs:
           echo "full/5ubscrpt10n.txt" >> .gitignore
           echo "full/5ubscrpt10n-b64.txt" >> .gitignore
 
+          # تولید لینک‌های فایل‌های mini
+          MINI_SUBS=$(ls mini/m1n1-5ub-*.txt 2>/dev/null | sort -V | awk '{print "| " $0 " | [" $0 "](https://raw.githubusercontent.com/${{ github.repository }}/main/" $0 ") |"}' || echo "| No split files available | |")
+
           # تولید README با قالب جدید
           cat << 'EOF' > README.md
 # VPN Subscriptions Hub
@@ -65,7 +66,7 @@ For large configurations, use these split files:
 
 | File Name          | Link                                                                 |
 |--------------------|----------------------------------------------------------------------|
-$(ls mini/m1n1-5ub-*.txt 2>/dev/null | sort -V | awk '{print "| " $0 " | [" $0 "](https://raw.githubusercontent.com/${{ github.repository }}/main/" $0 ") |"}' || echo "| No split files available | |")
+$MINI_SUBS
 
 ## How to Use
 
