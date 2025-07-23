@@ -35,24 +35,49 @@ jobs:
           MINI_SUBS=$(ls mini/m1n1-5ub-*.txt | sort -V | awk '{print "https://raw.githubusercontent.com/${{ github.repository }}/main/"$0}')
           cat <<EOF > README.md
           \`\`\`
-          ** The Subscriptions updating every hour **
-          ** Found a new source to obtain subscriptions? Tell it in Repository Issues **
-          
-          ** You need a software that supports these protocols and has a Subscription function **
-          ** Just copy the needed link and paste it into the program **
-          
-          ** Some software/hardware might not import these subscriptions because they are too large **
-          ** Subscriptions by protocols **
-          [VLESS]
-          https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vl.txt
-          [VMESS]
-          https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vm.txt
-          [TROJAN]
-          https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/tr.txt
-          [SHADOWSOCKS]
-          https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt
-          
-          ** Subscriptions in parts (10k lines per file) **
+          *# VPN Subscriptions Hub
+
+          This repository provides **hourly-updated** VPN configurations for protocols like VLESS, VMESS, Trojan, and Shadowsocks. Easily copy the links below and use them in your VPN client.
+
+          > **Note:** Some software may not support large subscription files. Use the split files (10k lines each) for better compatibility.
+
+          ## Table of Contents
+         - [Subscriptions by Protocol](#subscriptions-by-protocol)
+         - [Split Subscriptions](#split-subscriptions)
+         - [How to Use](#how-to-use)
+         - [Contribute](#contribute)
+
+         ## Subscriptions by Protocol
+
+         | Protocol     | Link                                                                 |
+         |--------------|----------------------------------------------------------------------|
+         | VLESS        | [vless://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vl.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vl.txt) |
+         | VMESS        | [vmess://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vm.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vm.txt) |
+         | Trojan       | [trojan://raw.githubusercontent.com/${{ github.repository }}/main/protocols/tr.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/tr.txt) |
+         | Shadowsocks  | [ss://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt) |
+
+         ## Split Subscriptions (10k Lines Each)
+
+         For large configurations, use these split files:
+
+         | File Name          | Link                                                                 |
+         |--------------------|----------------------------------------------------------------------|
+         $MINI_SUBS
+
+         ## How to Use
+
+         1. Choose a protocol or split file from the links above.
+         2. Copy the link and paste it into your VPN client's subscription field.
+         3. Ensure your client supports the selected protocol (e.g., V2Ray, Clash, or Shadowsocks).
+
+         ## Contribute
+
+         Found a new source for VPN subscriptions? Let us know by opening an issue in the [Repository Issues](https://github.com/${{ github.repository }}/issues)!
+
+         ---
+
+         *Last updated: $(date -u +"%Y-%m-%d %H:%M:%S UTC")*  
+         *Maintained by [tahmaseb73](https://github.com/tahmaseb73)*
           $MINI_SUBS
           \`\`\`
           EOF
