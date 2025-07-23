@@ -1,3 +1,8 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0WDVDUEZaUWt4VGV1cE45@admin.c4.havij.co:443#Telegram:@IP_CF
+vless://14e1f919-7d8e-4d9f-9685-1b3486d22584@panel.sitwe.ir:8080/?type=httpupgrade&path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs%3Fed%3D2048&host=panel.sitwe.ir&security=none#[]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@63.177.177.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)@MoftConfig
+trojan://telegram-id-vlessconfig@63.177.177.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 
+vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@104.17.221.248:443?path=%2F&security=tls&encryption=none&host=is.oldcloud.online&fp=chrome&type=ws&sni=is.oldcloud.online#[]t.me/MoftConfig
 trojan://telegram-id-vlessconfig@63.177.177.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 
 vless://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@104.19.48.236:443?path=%2F&security=tls&encryption=none&host=ad.oldcloud.online&fp=chrome&type=ws&sni=ad.oldcloud.online#[]t.me/MoftConfig
 trojan://telegram-id-directvpn@63.177.177.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
@@ -9993,8 +9998,3 @@ vless://588f094b-431b-422c-b80b-007945037072@89.23.103.150:443?path=%2Fwebsocket
 vless://d62993f2-f2b7-410d-b56d-2cef2e971038@3.115.82.155:443?security=tls&flow=xtls-rprx-vision-udp443&sni=tv.apple.com&fp=chrome#[]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080?type=tcp#[]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080?type=tcp#[]t.me/MoftConfig
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.188.181.214:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[]t.me/MoftConfig
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443/?type=ws&encryption=none&host=ipsycho.suex12.ir&path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560flow%3D-udp443flow%3D-udp443&security=tls&sni=ipsychO.SUEx12.Ir&fp=randomized#[]t.me/MoftConfig
-vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443/?type=tcp&encryption=none&security=tls&sni=147135011033.sec21org.com&alpn=h2%2Chttp%2F1.1&fp=chrome#[]t.me/ConfigsHub
-vless://21dfbe81-72d4-5ad5-8248-1e8d2cf13f8c@5.180.52.15:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#[]t.me/ConfigsHub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh35v1.gym35fit.shop:8880/?type=grpc&encryption=none#[]t.me/MoftConfig

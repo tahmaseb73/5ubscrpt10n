@@ -1,3 +1,17 @@
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@103.140.136.11:443?encryption=none&security=reality&sni=app.usercentrics.eu&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6&type=tcp&headerType=none#[]t.me/MoftConfig
+trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven@ru2.asc-sam.ir:2087?type=grpc&serviceName=&authority=&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ru2.asc-sam.ir#[]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@91.107.241.24:8880?encryption=none&security=none&type=grpc#[]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.25.243:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/MoftConfig
+vless://b27f4d97-2562-4867-ae20-45e625eec5f5@15.235.47.195:2053?encryption=none&security=reality&sni=sourceforge.net&fp=chrome&pbk=-L10J9UWL4oIvj6LX59wV9Zxr66lQS9QIzjfBV6N90E&sid=87859af4ef1b7e08&type=grpc&authority=&serviceName=2053vless&mode=gun#[]t.me/MoftConfig
+vless://90ac584d-761e-4120-80fe-c83827e2d903@199.245.100.163:55581?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tesla.com&fp=chrome&pbk=y0q-sCEuL7_NSQ7XrxQ0McBOaOcCYkM3Si2Z8MRDKy0&sid=d57e86f58bde2f5a&type=tcp&headerType=none#[]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.64.185.239:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram:@IP_CF
+vless://b27f4d97-2562-4867-ae20-45e625eec5f5@15.235.47.195:2053?encryption=none&security=reality&sni=sourceforge.net&fp=chrome&pbk=-L10J9UWL4oIvj6LX59wV9Zxr66lQS9QIzjfBV6N90E&sid=87859af4ef1b7e08&type=grpc&authority=&serviceName=2053vless&mode=gun#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.39.115.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@103.140.136.11:443?encryption=none&security=reality&sni=app.usercentrics.eu&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6&type=tcp&headerType=none#[]t.me/ConfigsHub
+vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@103.148.73.170:443?encryption=none&security=reality&sni=github.githubassets.com&fp=chrome&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2&type=tcp&headerType=none#[]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.162.208:8880?encryption=none&security=none&type=grpc#[]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.211.49:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.125.220.97:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram:@IP_CF
 vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@103.148.73.177:443?encryption=none&security=reality&sni=cdn77.api.userway.org&fp=chrome&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2&type=tcp&headerType=none#[]t.me/MoftConfig
 vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=www.speedtest.net.A.152.speedtest2.livE.&type=ws#WS2-Irancell+%7C+%40ArV2ray
 vless://9040086a-492e-412d-bf84-182ed4aa6169@speedtest.net:80?type=ws&path=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android%3Fed%3D2048&host=V5B28L9.com&security=none#[]t.me/MoftConfig
@@ -9984,17 +9998,3 @@ vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.22.22.78:80?path=%2FTelegram%40
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#[]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@176.124.223.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2F#@MoftConfigChinaLanzhou (Chengguan District, Lanzhou)ping:8.44ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE=@hk.fastsoonlink.com:40000#[]t.me/MoftConfig
-vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@104.21.78.206:2096?security=tls&sni=FReedOM.pANoToSu.StorE&type=ws&host=freedom.panotosu.store&path=/vRpve4WyyyBMiVSu/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D?ed%3D2560&fp=randomized&alpn=http/1.1#[]t.me/ConfigsHub
-trojan://Aimer@104.129.166.131:8443?sni=agept.ambercc.filegear-sg.me#[]t.me/MoftConfig
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#@MoftConfigCanadaTorontoping:9.38ms
-trojan://Aimer@162.159.45.156:8443?allowInsecure=0&sni=agepu.ambercc.filegear-sg.me#[]t.me/ConfigsHub
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@154.198.173.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram&allowInsecure=0#@MoftConfigIndiaNew Delhiping:8.02ms
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:80?encryption=none&security=none&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=%2FVb2kRpQSrEqsUKCX%3Fed%3D2560#@MoftConfigCanadaTorontoping:8.56ms
-trojan://Aimer@104.129.166.131:8443?sni=agept.ambercc.filegear-sg.me#@MoftConfigHong KongKwai Chungping:8.24ms
-trojan://bpb-trojan@185.238.228.6:443?security=tls&type=tcp&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv#[]t.me/MoftConfig
-trojan://Aimer@188.164.159.174:2053?allowInsecure=0&sni=agept.ambercc.filegear-sg.me#@MoftConfigCzechiaPragueping:8.01ms
-vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.22.22.78:80?path=%2FTelegram%40Filter_breaker%2F%3Fed%3D2560&security=&encryption=none&host=agolna.mahsaamini.dpdns.org&type=ws#@MoftConfigCanadaTorontoping:7.91ms
-trojan://Aimer@167.68.4.199:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#[]t.me/ConfigsHub
-trojan://bpb-trojan@104.18.107.117:443/?type=tcp&security=tls&sni=bpb.my79801.com#[]t.me/ConfigsHub
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.208.49:80?security=none&sni=sib.sibzamini.dpdns.org&type=ws&host=sib.sibzamini.dpdns.org&path=%2F%3Fed%3D2560&fp=random#[]t.me/ConfigsHub
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.149.12.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram&allowInsecure=0#[]t.me/ConfigsHub
