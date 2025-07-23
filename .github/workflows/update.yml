@@ -40,9 +40,9 @@ jobs:
           cat << 'EOF' > README.md
 # VPN Subscriptions Hub
 
-Welcome to the **VPN Subscriptions Hub**! This repository provides **hourly-updated** VPN configurations for protocols like VLESS, VMESS, Trojan, and Shadowsocks. Easily copy the links below and use them in your VPN client.
+Welcome to the VPN Subscriptions Hub! This repository provides hourly-updated VPN configurations for protocols like VLESS, VMESS, Trojan, and Shadowsocks. Easily copy the links below and use them in your VPN client.
 
-> **Note:** Some software may not support large subscription files. Use the split files (10k lines each) for better compatibility.
+> Note: Some software may not support large subscription files. Use the split files (10k lines each) for better compatibility.
 
 ## Table of Contents
 - [Subscriptions by Protocol](#subscriptions-by-protocol)
@@ -52,12 +52,12 @@ Welcome to the **VPN Subscriptions Hub**! This repository provides **hourly-upda
 
 ## Subscriptions by Protocol
 
-| Protocol        | Link                                                                 |
-|-----------------|----------------------------------------------------------------------|
-| VLESS           | [vless://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vl.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vl.txt) |
-| VMESS           | [vmess://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vm.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vm.txt) |
-| Trojan          | [trojan://raw.githubusercontent.com/${{ github.repository }}/main/protocols/tr.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/tr.txt) |
-| Shadowsocks     | [ss://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt) |
+| Protocol     | Link                                                                 |
+|--------------|----------------------------------------------------------------------|
+| VLESS        | [vless://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vl.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vl.txt) |
+| VMESS        | [vmess://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vm.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vm.txt) |
+| Trojan       | [trojan://raw.githubusercontent.com/${{ github.repository }}/main/protocols/tr.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/tr.txt) |
+| Shadowsocks  | [ss://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt) |
 
 ## Split Subscriptions (10k Lines Each)
 
@@ -65,7 +65,7 @@ For large configurations, use these split files:
 
 | File Name          | Link                                                                 |
 |--------------------|----------------------------------------------------------------------|
-$(ls mini/m1n1-5ub-*.txt 2>/dev/null | sort -V | awk '{print "| " $0 " | [" $0 "](https://raw.githubusercontent.com/${{ github.repository }}/main/" $0 ") |"}' || echo "")
+$(ls mini/m1n1-5ub-*.txt 2>/dev/null | sort -V | awk '{print "| " $0 " | [" $0 "](https://raw.githubusercontent.com/${{ github.repository }}/main/" $0 ") |"}' || echo "| No split files available | |")
 
 ## How to Use
 
