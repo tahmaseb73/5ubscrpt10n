@@ -54,10 +54,10 @@ Welcome to the **VPN Subscriptions Hub**! This repository provides **hourly-upda
 
 | Protocol        | Link                                                                 |
 |-----------------|----------------------------------------------------------------------|
-| **VLESS**       | [vless://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vl.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vl.txt) |
-| **VMESS**       | [vmess://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vm.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vm.txt) |
-| **Trojan**      | [trojan://raw.githubusercontent.com/${{ github.repository }}/main/protocols/tr.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/tr.txt) |
-| **Shadowsocks** | [ss://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt) |
+| VLESS           | [vless://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vl.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vl.txt) |
+| VMESS           | [vmess://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vm.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/vm.txt) |
+| Trojan          | [trojan://raw.githubusercontent.com/${{ github.repository }}/main/protocols/tr.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/tr.txt) |
+| Shadowsocks     | [ss://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/protocols/ss.txt) |
 
 ## Split Subscriptions (10k Lines Each)
 
