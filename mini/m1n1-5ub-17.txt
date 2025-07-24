@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQWRkajNsdWVmcU1haDFUZHJITldr@77.83.246.74:443# 
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.18.62:443?encryption=none&security=tls&sni=147135011033.sec21org.com&fp=chrome&type=raw&headertype=none#[]t.me/MoftConfig
+vless://eab1e481-5b74-43da-a288-1547190925eb@194.182.79.100:42438?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRHZ1R2ZhVUo3b005RTZtSFdrWk45ZEFqUHh0cG5kdjRja3BQcHl1ZXhKeEtMbjZTcERRZEJCSkRGRTZHcWo5TVhwUkhQRHdZZk5BcUtncEJXVENXUHJHNGVEbW5HVFo=@mx2.drawnrisha.one:55988#[]t.me/MoftConfig
 vless://6e74c639-29e5-4c25-a46e-c47c02172ca9@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.developsp.ir.vegaskala.com.&encryption=none#[]t.me/MoftConfig
 vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@94.103.183.229:2053?path=%2FTG%40ShadowProxy66%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=jj.wxgqlfx.cn&fp=random&type=ws&sni=jj.wxgqlfx.cn#[]t.me/MoftConfig
@@ -3885,6 +3888,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security
 vless://74459c85-c2d0-5075-9654-c543e6395694@v-05.artemis-vpn.org:80?type=tcp&headerType=http&path=/@Artemis_Vpn#[]t.me/ConfigsHub
 vless://8a2e7f51-54c3-48e5-8da6-ca71f9eb2c05@185.209.21.36:40887?security=&encryption=none&host=tgju.org&headerType=http&type=tcp#[]t.me/ConfigsHub
 vless://9570a079-f83f-4454-88d0-884057c57a35@fruitful-exchange.seotoolsforyou.co.uk:80?path=%2F&security=&encryption=none&type=ws#[]t.me/ConfigsHub
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?path=%2FTELEGRAM---MTMVPN---TELEGRAM---MTMVPN---TELEGRAM---MTMVPN%3Fed%3D2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#[]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.42.145.142:443?security=tls&type=ws&sni=kk033.ylks.link&path=/proxyip=proxyip.oracle.fxxk.dedyn.io&encryption=none&headerType=none#%E5%8D%A2%E6%A3%AE%E5%A0%A1_1
 trojan://NISHIKUITAN222@125.139.249.241:17057?type=ws&allowInsecure=1&path=/&host=t033.ylks.link#%E9%9F%A9%E5%9B%BD_1
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.16:443?security=tls&type=ws&sni=v033.ylkszy.eu.org&path=/?ed=2560&encryption=none&headerType=none#%E7%BE%8E%E5%9B%BD_1
@@ -9994,7 +9998,3 @@ trojan://NISHIKUITAN222@108.162.195.137:443?allowInsecure=1# TR-TCP-NA  NA-108.1
 trojan://trojan@104.21.3.52:443?security=tls&sni=test-a23.pages.dev&type=ws&host=test-a23.pages.dev&path=%2FTelegram-proxy_mtm-Telegram-proxy_mtm%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1# TR-WS-TLS  NA-104.21.3.52:443
 trojan://ComYEI7fQv@51.68.215.55:443?security=tls&sni=uk-04.allhubb.info&type=ws&path=%2FTBHDjkhbgbygcvbjhbfrASDFASdfapoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg&fp=chrome&alpn=http%2F1.1# TR-WS-TLS  FR-51.68.215.55:443
 trojan://NISHIKUITAN222@173.245.49.76:443?# TR-TCP-NA  NA-173.245.49.76:443
-trojan://NISHIKUITAN222@190.93.244.42:443?security=tls&sni=ik.ylks.xyz&type=ws&host=ik.ylks.xyz&path=%2F# TR-WS-TLS  NA-190.93.244.42:443
-trojan://auto@104.20.20.114:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F# TR-WS-TLS  NA-104.20.20.114:443
-trojan://blue2024@172.64.35.194:443?sni=ta.promote.icu# TR-TCP-NA  NA-172.64.35.194:443
-trojan://auto@162.159.44.217:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/# TR-WS-TLS  NA-162.159.44.217:443
