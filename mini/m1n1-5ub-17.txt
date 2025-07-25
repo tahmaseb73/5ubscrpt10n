@@ -1,3 +1,37 @@
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#@MoftConfigThe NetherlandsRoosendaalping:28.31ms
+vless://CHIK_881548@us1.chik-chirik.xyz:443?security=reality&encryption=none&pbk=wsuNVssCC7Wh0VH_CpY3Th8z1brS70MpoqkgWmSdAk4&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#@MoftConfigUnited StatesMiamiping:153.28ms
+vless://CHIK_181509@77.91.76.14:443?security=reality&encryption=none&pbk=7YEakrIiKu1CHDSOOrglxndNDLdh8ub7DzVoecOOtws&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#@MoftConfigFranceParisping:29.29ms
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#@MoftConfigSpainMadridping:57.34ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#@MoftConfigUnited KingdomNew Barnetping:59.34ms
+vless://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@51.89.224.169:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e1afb93bfe75a34b#@MoftConfigUnited KingdomErithping:66.31ms
+vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?encryption=none&security=tls&sni=ru01.abvpn.ru&fp=chrome&type=ws&host=ru01.abvpn.ru&path=%2Fwebsocket#@MoftConfigRussiaSt Petersburgping:36.62ms
+vless://1e5fa2e7-81ed-4861-a8c2-bff334440c4c@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6#@MoftConfigCanadaMontrealping:7.3ms
+vless://telegram-id-ArV2ray11@151.101.64.155:80?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry%3Fed%3D2048&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#@MoftConfigCanadaMontrealping:7.3ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@62.100.205.48:989#@MoftConfigUnited KingdomLondonping:37.29ms
+vless://391c477b-545d-405f-bb78-371%650d1fb63f@194.182.79.41:48615?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON%3F%65d%3D2048#@MoftConfigCzechiaPragueping:39.68ms
+vless://c12c891%65-f93d-4b2%61-b757-087289679753@194.182.79.143:36936?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON%3F%65d%3D2048#@MoftConfigCzechiaPragueping:38.66ms
+trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&headerType=none&type=tcp&sni=yourjobnavigator.online#@MoftConfigUnited KingdomNewton Abbotping:40.14ms
+vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?encryption=none&security=tls&sni=cr77.hedieh.dpdns.org&fp=chrome&type=ws&host=cr77.hedieh.dpdns.org&path=%2F#@MoftConfigCanadaTorontoping:10.38ms
+vless://CHIK_481495@83.147.252.114:443?security=reality&encryption=none&pbk=jP5khyw0xKq1-GuOB4RApEzC48qE4yyExXqPaPFvezo&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#@MoftConfigFinlandHelsinkiping:13.91ms
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?encryption=none&security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3D2560#@MoftConfigCanadaTorontoping:8.12ms
+vless://4c2347c2-7751-4dd%61-b370-%61f9178cd%61b97@194.182.79.216:52843?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON%3F%65d%3D2048#@MoftConfigCzechiaPragueping:38.56ms
+vless://%65%61b1%65481-5b74-43d%61-%61288-1547190925%65b@194.182.79.100:42438?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON%3F%65d%3D2048#@MoftConfigCzechiaPragueping:38.36ms
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#@MoftConfigPolandWarsawping:36.67ms
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.21.75.66:2086?path=%2Fs9OZ6FClZzVoeUpN%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#[]t.me/MoftConfig
+vless://d3541bb4-2cb5-4372-beab-fac34d5b8539@104.17.147.22:443?path=%2Fnetherlands%2Famsterdam%2Fvl%2Fws%2Ftls&security=tls&encryption=none&host=72790032528889957475364702518915.v2line.online&fp=chrome&type=ws&sni=72790032528889957475364702518915.v2line.online#@MoftConfigCanadaTorontoping:25.11ms
+vless://CHIK_181509@77.91.76.14:443?security=reality&encryption=none&pbk=7YEakrIiKu1CHDSOOrglxndNDLdh8ub7DzVoecOOtws&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#@MoftConfigFranceParisping:36.66ms
+vless://CHIK_481529@77.91.85.161:443?security=reality&encryption=none&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#@MoftConfigSwedenStockholmping:13.58ms
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.21.75.66:2082?path=%2FKQqqEF0TKMgJcC15%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#[]t.me/MoftConfig
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.135.9.223:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#@MoftConfigUnited KingdomLondonping:8.23ms
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.17.148.22:2095?path=%2F901qf5SHefST0QYH%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#@MoftConfigCanadaTorontoping:9.14ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYczU0UVQ3MzY0dmZjZnBEbkIxNlJ5@h110vpnde.outlinekeys.net:21712#@MoftConfigGermanyFrankfurt am Mainping:28.31ms
+vless://c6e48175-7639-4e16-b374-455f1939c075@157.230.17.102:30595?mode=gun&security=none&encryption=none&type=grpc#@MoftConfigGermanyBad Oeynhausenping:29.82ms
+vless://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@v01.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#@MoftConfigUnited KingdomBirminghamping:92.72ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?mode=gun&security=&encryption=none&type=grpc&sni=pqh26v3.sport26tennis.shop#@MoftConfigMexicoMexico Cityping:98.55ms
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.21.75.66:2082?path=%2FKQqqEF0TKMgJcC15%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#@MoftConfigCanadaTorontoping:8.58ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0bktxTld0aUdicTdxSWRhNk43TVE0@94.159.96.245:11902#@MoftConfigGermanyFrankfurt am Mainping:29.24ms
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.21.75.66:2086?path=%2Fs9OZ6FClZzVoeUpN%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#@MoftConfigCanadaTorontoping:8.61ms
+vless://48924168-851d-4b75-acf0-b9ff91c709bd@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.developsp.ir.vegaskala.com.&encryption=none#[]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYjNYbUdGYmVKSXFxYU9EVVlic2M2@h110vpnch.outlinekeys.net:4248#@MoftConfigSwitzerlandZurichping:35.64ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?mode=gun&security=&encryption=none&type=grpc#@MoftConfigUnited KingdomCoventryping:54.46ms
 vless://c6e48175-7639-4e16-b374-455f1939c075@157.230.17.102:30595?mode=gun&security=none&encryption=none&type=grpc#[]t.me/MoftConfig
@@ -9964,37 +9998,3 @@ trojan://blue2024@198.62.62.156:443?sni=ta.promote.icu# TR-TCP-NA  US-198.62.62.
 trojan://auto@104.20.20.168:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F# TR-WS-TLS  NA-104.20.20.168:443
 trojan://NISHIKUITAN222@172.67.203.142:443?# TR-TCP-NA  NA-172.67.203.142:443
 trojan://NISHIKUITAN222@173.245.49.45:443?security=tls&sni=im.ylks.xyz&type=ws&host=im.ylks.xyz&path=%2F# TR-WS-TLS  NA-173.245.49.45:443
-trojan://tg-dns68@104.19.46.6:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org# TR-WS-TLS  NA-104.19.46.6:443
-trojan://NISHIKUITAN222@104.25.242.254:443?allowInsecure=0# TR-TCP-NA  NA-104.25.242.254:443
-trojan://NISHIKUITAN222@188.114.98.57:443?# TR-TCP-NA  NA-188.114.98.57:443
-trojan://auto@104.17.37.105:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/# TR-WS-TLS  NA-104.17.37.105:443
-trojan://auto@104.22.37.243:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F# TR-WS-TLS  NA-104.22.37.243:443
-trojan://auto@104.20.18.216:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F# TR-WS-TLS  NA-104.20.18.216:443
-trojan://NISHIKUITAN222@190.93.246.0:443?allowInsecure=0# TR-TCP-NA  NA-190.93.246.0:443
-trojan://blue2024@108.162.195.135:443?sni=ta.promote.icu&allowInsecure=0# TR-TCP-NA  NA-108.162.195.135:443
-trojan://NISHIKUITAN222@104.25.219.178:443?# TR-TCP-NA  NA-104.25.219.178:443
-trojan://NISHIKUITAN222@104.16.200.98:443?# TR-TCP-NA  NA-104.16.200.98:443
-trojan://auto@172.64.35.187:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F# TR-WS-TLS  NA-172.64.35.187:443
-trojan://auto@104.20.18.244:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F# TR-WS-TLS  NA-104.20.18.244:443
-trojan://tg-dns68@162.159.153.219:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3# TR-WS-TLS  NA-162.159.153.219:443
-trojan://NISHIKUITAN222@104.27.117.212:443?# TR-TCP-NA  NA-104.27.117.212:443
-trojan://9a4bc15d-a7d4-4181-9485-405629c36894@185.146.173.115:443?security=tls&sni=king-ae1.pages.dev&type=ws&host=king-ae1.pages.dev# TR-WS-TLS  SE-185.146.173.115:443
-trojan://NISHIKUITAN222@141.101.123.151:443?# TR-TCP-NA  NA-141.101.123.151:443
-trojan://auto@104.20.17.191:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F# TR-WS-TLS  NA-104.20.17.191:443
-trojan://NISHIKUITAN222@104.25.245.193:443?# TR-TCP-NA  NA-104.25.245.193:443
-trojan://fuck@42.236.73.72:443?sni=www.zitian.cn# TR-TCP-NA  CN-42.236.73.72:443
-trojan://NISHIKUITAN222@190.93.246.156:443?# TR-TCP-NA  NA-190.93.246.156:443
-trojan://tg-dns68@162.159.152.228:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org# TR-WS-TLS  NA-162.159.152.228:443
-trojan://NISHIKUITAN222@198.41.194.151:443?security=tls&sni=il.ylks.xyz&type=ws&host=il.ylks.xyz&path=%2F# TR-WS-TLS  NA-198.41.194.151:443
-trojan://53027f0f-2581-469a-a802-825d46f37cda@104.18.124.198:443?security=tls&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&type=ws&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&path=%2Fcassiusvpn.pages.dev%2F%3Fed%3D2560&fp=random# TR-WS-TLS  NA-104.18.124.198:443
-trojan://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.47.23:443?security=tls&sni=aksnmaioas.pages.dev&type=ws&host=aksnmaioas.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048# TR-WS-TLS  NA-172.66.47.23:443
-trojan://auto@104.20.17.25:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F# TR-WS-TLS  NA-104.20.17.25:443
-trojan://edcfbd77-d607-53a9-842c-32592c2504b2@104.19.209.229:2052?security=none&type=httpupgrade&host=www-domain.uk1.vless.sitespeedtest.net&path=%2Fhttpupgrade%3Fed%3DTelegram%40Linkvws%3Fed%3D2560# TR-HTTPUPGRADE-NONE  NA-104.19.209.229:2052
-trojan://NISHIKUITAN222@104.25.154.54:443?# TR-TCP-NA  NA-104.25.154.54:443
-trojan://auto@104.20.20.27:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F# TR-WS-TLS  NA-104.20.20.27:443
-trojan://auto@104.20.20.0:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F# TR-WS-TLS  NA-104.20.20.0:443
-trojan://NISHIKUITAN222@198.41.215.68:443?security=tls&sni=in.ylks.xyz&type=ws&host=in.ylks.xyz&path=%2F# TR-WS-TLS  NA-198.41.215.68:443
-trojan://dns68@43.198.148.59:8099?security=tls&sni=trojan.putata.us.kg&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1# TR-WS-TLS  HK-43.198.148.59:8099
-trojan://NISHIKUITAN222@188.114.98.176:443?security=tls&sni=ij.ylks.xyz&type=ws&host=ij.ylks.xyz&path=%2F# TR-WS-TLS  NA-188.114.98.176:443
-trojan://Telegram-DailyConfigs@104.18.2.11:2096?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%3Fed%3D2560&fp=randomized# TR-WS-TLS  NA-104.18.2.11:2096
-trojan://auto@162.159.44.194:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F# TR-WS-TLS  NA-162.159.44.194:443
