@@ -1,9 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#@MoftConfigThe NetherlandsAmsterdamping:31.07ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.46.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@MoftConfigUnited KingdomLondonping:8.16ms
-vless://92fc3c1b-c409-4610-b1a6-9a8ef4287891@v20.vxlimir.com:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e1afb93bfe75a34b#@MoftConfigUnited KingdomBirminghamping:100.98ms
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.135:8090#@MoftConfigUnited StatesAshburnping:103.18ms
-vless://ed4ac7bf-9ec8-4a7a-b45a-72b62f1e18dc@arvancloud.fn.ir.systemgamingirani.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#@MoftConfigGermanyFrankfurt am Mainping:35.32ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.6.68:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#@MoftConfigBelizeBelize Cityping:8.17ms
 vless://BYA_CHANEL_JOKERRVPN@redbrain.shopping:80?path=%2F@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN%3Fed%3D2048&security=&encryption=none&host=JOKERRVPN.com&type=ws#@MoftConfigUnited StatesSan Franciscoping:7.67ms
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@bats-paper-chump.stark-industries.solutions:443?security=tls&headerType=none&type=tcp&sni=bats-paper-chump.stark-industries.solutions#[]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206NzM1ZmQ0ZjQtYmM1NS00MDBhLTlmMWMtMmI5MTA4OWM5MjAw@68.183.213.232:8443#@MoftConfigGermanyFrankfurt am Mainping:27.15ms
@@ -9998,3 +9992,9 @@ vless://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?security=none&e
 vless://5d71b518-9f52-414a-abf2-b806684233be@pic2.zarashop0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic2.zarashop0.ir#[]t.me/MoftConfig
 vless://7687ff85-0fb9-4457-8279-6cdde19ffc59@151.101.66.219:80?security=none&type=ws&host=Digikala.iranian.net&path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D8080#@MoftConfigCanadaMontrealping:7.13ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638856975835377994.yasuj-drc-tusabb.info:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638856975835388923.yasuj-drc-tusabb.info:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638856975835382004.yasuj-drc-tusabb.info:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638856975835388923.yasuj-drc-tusabb.info:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/ConfigsHub
+vless://5d71b518-9f52-414a-abf2-b806684233be@its.zarashop0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=its.zarashop0.ir#[]t.me/MoftConfig
+trojan://Aimer@162.159.44.199:443?security=tls&sni=agepy.ambercc.filegear-sg.me&type=ws&host=agepy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#@MoftConfigUnited StatesLos Angelesping:30.27ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638856975835386729.yasuj-drc-tusabb.info:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/MoftConfig

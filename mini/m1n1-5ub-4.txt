@@ -1,3 +1,7 @@
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?type=ws&host=nextfilmtomovies.site&path=/9EkfcCDedhvB19xj?ed=2560&security=tls&fp=chrome&sni=NExtfilmtOmovies.sitE&alpn=http/1.1#Telegram : @unlimiteddev 
+vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#@bored_vpn
+vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#@vmesskhodam
+vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#@_
 vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#All@Rk_VPS
 vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#Channel : @@CaptalVpn 
 vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#Channel : @Mrsoulb 
@@ -9994,7 +9998,3 @@ vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=/?ed=2560&secu
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=/?ed=2560/&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#@SimChin_iR  
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=/?ed=2560/?BIA_CHANEL@JOKERRVPN&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#@SimChin_iR  
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=/?ed=2560/?JOKERRVPNBIA_CHANEL@JOKERRVPN&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#@SimChin_iR  
-vless://726581ee-ce7b-45f8-8835-5494352b2800@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=8#Telegram:@config_proxy 
-vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@SimChin_iR  
-vless://77366551-f16b-42ca-ab24-c457634b8e34@free-de.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#t.me/entryNET/config=1837952427122510
-vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#@Confingman  []

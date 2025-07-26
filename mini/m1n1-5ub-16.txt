@@ -1,9 +1,3 @@
-vless://44926da6-c5e7-4ac8-982e-90322322f9d5@zula.ir:8880?path=%2F%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.speedtest24.ir&type=httpupgrade#[]t.me/ConfigsHub
-vless://09417e2f-0a79-4cd1-b190-3e927652b698@iran.mmdmaty83.ir:443?encryption=none&security=reality&sni=snapp.ir&fp=chrome&pbk=ytNj1b2dywsLwHXrWUGKAgB3pR0Fj479ol-mokC1RkI&sid=fd09b66d5dca1398&spx=%2F&allowInsecure=1&type=xhttp&path=%2F&mode=auto#[]t.me/ConfigsHub
-vmess://eydhZFvwn4+BXXQubWUvQ29uZmlnc0h1YicsICdzY3knOiAnYXV0bycsICdzbmknOiAnJywgJ3Rscyc6ICdub25lJywgJ3R5cGUnOiAnbm9uZScsICd2JzogJzInfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eWdtQ08yY0FrdW91VFlwY0FNTjNi@77.83.246.74:443#[]t.me/ConfigsHub
-vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80?path=%2F%3Fed%3D2048&security=&encryption=none&host=VAST-RAdIo.zuLAIR.oRG&type=ws#[]t.me/ConfigsHub
-vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.220.188:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135001195.sec22org.com#[]t.me/ConfigsHub
 vmess://eydhZFvwn4+BXXQubWUvQ29uZmlnc0h1YicsICdzY3knOiAnYXV0bycsICdzbmknOiAnJywgJ3Rscyc6ICcnLCAndHlwZSc6ICcnLCAndic6ICcyJ30=
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#[]t.me/ConfigsHub
 vless://548b5c1d-ab1f-4ca8-ab8f-3472858a8efd@www.speedtest.net:8080?path=%2F%40VpnHubMaRKeT%20-%20%40VpnHubMaRKeT%20-%20%40VpnHubMaRKeT%3Fed%3D2056&security=none&encryption=none&host=ams.tablosefid.ir.&type=ws#[]t.me/ConfigsHub
@@ -3506,7 +3500,9 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=%2F---%40Ex
 vless://ff1a7e82-4789-4259-b183-a219f145aa81@91.107.158.165:57727?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[]t.me/ConfigsHub
 vless://19e70f3b-8c62-42d7-b8a2-381e086a1397@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fnqbispws&security=tls&encryption=none&host=638886055652724471.warsaw-prx-dnraaao.info&type=ws&sni=638886055652724471.warsaw-prx-dnraaao.info#[]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@15.236.67.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.236.67.13:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&security=tls&encryption=none&alpn=h2,http/1.1&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#[]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.67.13:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@194.182.79.142:11745?mode=gun&security=reality&encryption=none&authority=&pbk=hgaeyKQWo1Cf0fDhXVD2AZKI6DfOhBhjsSSfccW7ADo&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=26a52325#[]t.me/ConfigsHub
 vless://b43cbbb7-7859-4bbb-b224-4a60f5c0d75c@172.66.40.99:8080?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=khoshtip.motorphrotan.ir.&type=ws#[]t.me/ConfigsHub
 vmess://eyJhZGQiOiI0Ni4yNTAuMjQzLjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImE3NWYzZjk1LWFkNGUtNDQ5OC1mYzcyLWRkNzQwZGQwMmJmYyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAzOTQiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
@@ -4172,6 +4168,10 @@ vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.ne
 trojan://thbXMEc79h@65.109.209.53:24982/?type=tcp&security=none#[]t.me/ConfigsHub
 vless://73cc7084-a427-4193-8fe0-6dd72ac48265@80.240.23.101:47567?flow=&type=xhttp&host=&path=/&mode=auto&security=reality&fp=firefox&sni=www.black-moai.com&pbk=qmdcGi9MFglpiaqalAFvOUGNehBjYIwaXLbula8K0gU&sid=a862ded52ae3ea&spx=/#[]t.me/ConfigsHub
 vless://96525ea7-51db-4b8b-8459-5b7269e7066a@kafshu.ir:8080?type=ws&path=%2F@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=inFo.laLezaRanegomaNandish.sNap.ir.snapfoodsuppoRt.onlIne.&security=none#[]t.me/ConfigsHub
+vless://977e8086-fd41-4362-a51a-8b0c95dfa0df@174.138.101.107:45500?security=none&encryption=none&headerType=none&type=tcp#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.157.70.114:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.net:80?security=&type=ws&path=/?ed%3D2048&host=NIce-APartMEnt.ZULAir.ORg&encryption=none#[]t.me/ConfigsHub
+vless://9302d475-9cac-4b5e-8c45-7e40d0451ac2@104.24.0.37:2087?encryption=none&security=tls&sni=grq.mestershopyt.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=grq.mestershopyt.ir&path=%2F%40vpnonlin01#[]t.me/ConfigsHub
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.30:80/?type=ws&encryption=none&host=pormang.webhost99.workers.dev&path=%2F#[]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.27.132:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/MoftConfig
 vless://384d86c0-2f2c-5156-98b5-27bbc14f4315@join.mosiv2.fastly80-3.hosting-ip.com:80/?type=ws&encryption=none&host=Join-Bede-MOSiv2.IR&path=%2F#[]t.me/ConfigsHub
