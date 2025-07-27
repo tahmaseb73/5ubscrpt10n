@@ -1,14 +1,3 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.7.3:8880?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@MoftConfigBelizeBelize Cityping:8.46ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@209.46.30.20:8880?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#@MoftConfigUnited StatesFeasterville-Trevose (Trevose)ping:8.1ms
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.25.236:443?mode=stream-one&path=%2Fkavir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&security=tls&alpn=h2&encryption=none&host=kavir.lnmarketplace.net&fp=firefox&type=xhttp&sni=kavir.lnmarketplace.net#@MoftConfigGermanyBad Soden am Taunus (Neuenhain)ping:30.61ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.197.64.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@MoftConfigUnited StatesWashington D.C.ping:8.15ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.27:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@MoftConfigBelizeBelize Cityping:7.96ms
-vless://0467eb58-29e0-4ecd-9b09-3b909862c377@140.248.180.62:443?path=%2FChannel-MOSIV2--MOSIV2--Channel-MOSIV2--MOSIV2%3Fed%3D2560&security=tls&encryption=none&host=Channel-MOSIV2-MOSIV2.IR&fp=qq&type=ws&sni=Channel-MOSIV2-MOSIV2.IR#@MoftConfigCanadaMontrealping:6.9ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1M3pYdHhOdngzTVp5a29QSzU4a0dz@h110vpntr.outlinekeys.net:65262#@MoftConfigTurkeyIstanbulping:64.69ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.36:38388#@MoftConfigVietnamHi Dngping:286.77ms
-vless://Parsashonam-249@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#@MoftConfigSwedenStockholmping:8.1ms
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s30.digikalacomirdivarir.com&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s30.digikalacomirdivarir.com#@MoftConfigCanadaTorontoping:8.55ms
-trojan://0bf83a1d-f785-487a-a479-3c3de2566ba6@104.21.75.75:443?path=%2FxJXdWGMbbZovkcaL2SsGTGxE&security=tls&alpn=http%2F1.1&host=xs2ws.857856.xyz&fp=chrome&type=ws&sni=Xs2ws.857856.xYz#@MoftConfigCanadaTorontoping:8.59ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.117:8880?path=Telegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@MoftConfigBelizeBelize Cityping:8.07ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#@MoftConfigCanadaBeauharnoisping:150.09ms
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@bats-paper-chump.stark-industries.solutions:443?security=tls&headerType=none&type=tcp&sni=bats-paper-chump.stark-industries.solutions#@MoftConfigUnited StatesQueensping:31.29ms
@@ -9998,3 +9987,14 @@ vless://245903ae-1735-4876-9139-9426da0548ed@tr.irvi-online.ir:2000?security=rea
 vless://f843dedd-b06a-4a9e-a9ab-0637578fce80@151.101.3.8:80?security=none&type=ws&headerType=&path=%2Fdownload%3Fed%3D2560&host=ana.ir#[]t.me/ConfigsHub
 vless://0482044c-c845-4f37-ba36-a038f6fe4b8f@fst.infospeedtest.com:80?mode=auto&path=%2Fdownload%2Fed%3D2048&security=none&encryption=none&host=GER2r-name.global.ssl.fastly.net&type=xhttp#Telegram:@IP_CF
 trojan://Aimer@192.200.160.35:2083?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#[]t.me/ConfigsHub
+trojan://91658@104.16.119.133:2087?path=%2FtrYndeckDjhXTVx4GP%2FdHMuaHBjLnR3%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=mywebpan.114514660.xyz&fp=randomized&type=ws&sni=myWEbpAn.114514660.XyZ#[]t.me/ConfigsHub
+vless://1c594db5-fc53-4426-b1f2-0ff58809ba96@alIi.soBaTnEt.iR:80?mode=auto&path=%2Fsvfzdxbgchvn&security=&encryption=none&host=amirzadekjsd.global.ssl.fastly.net&type=xhttp#[]t.me/ConfigsHub
+vless://88dedb2e-d483-41bd-88c6-c9d8425732dd@172.64.33.81:443?security=tls&sni=f3vs6k.bestvpninuae.com&type=ws&host=f3vs6k.bestvpninuae.com&path=/wss&alpn=http/1.1#[]t.me/ConfigsHub
+trojan://6d0a7f2f-c26c-466a-8f90-d6630ba97928@64.23.236.215:443?security=tls&type=tcp&sni=829D7BDE-64B9-E759-C661-78BC73E582A0.1c2871ba-6025-61e2-e87f-a5c9e0ac8c1d.9d8f269f96b25232-759cbb36d6548597.kaufen#[]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@217.182.198.219:9101#[]t.me/ConfigsHub
+vless://1b8df49d-cd7e-456f-adc6-76974001e05f@ens.zdshop.ir:80?security=none&encryption=none&headerType=none&type=tcp#Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTcyLjY3LjcyLjQyIiwicG9ydCI6IjgwIiwiaWQiOiIwY2E0MzEzZS05NWU4LTRlNzAtYjk5Yi1lNDcwNTIwMDE1YzUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaDQuZ3JBc1NvUnkuc2hvcCIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vless://08ef1330-8ffb-4001-a15e-96befc065c06@185.148.105.1:443?security=tls&sni=hq3.newretr432as.info&type=grpc#[]t.me/ConfigsHub
+trojan://c7cdf323-25d4-4c82-ad35-0aca769041c2@104.17.104.243:443?path=%2F%3Fed%3D2560&security=tls&host=trojans1.114514660.xyz&fp=randomized&type=ws&sni=trojans1.114514660.xyz#[]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNWQzMHZWZkxKT2dxbWxXcUtMM1pu@89.185.84.185:443#[]t.me/ConfigsHub
+vless://387f1cba-7339-4050-ae73-0ef798d58102@146.75.55.82:80?path=%2Fdownload%3Fed%3D2560&security=&encryption=none&host=rtakp.ir&type=ws#[]t.me/ConfigsHub

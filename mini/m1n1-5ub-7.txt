@@ -1,14 +1,3 @@
-vless://2369b350-f250-4263-bf8e-1f18363c62b7@www.speedtest.net:2096?mode=auto&path=/test?ed=2096&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=pars.stepson.ir&fp=chrome&type=xhttp&sni=pars.stepson.ir#CA_1731_@Surfboardv2ray
-vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@104.24.248.204:80?encryption=none&security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=/?ed=2560#CA_1732_@Surfboardv2ray
-vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@172.64.78.198:80?encryption=none&security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=/?ed=2560#CA_1733_@Surfboardv2ray
-vless://237349a7-9bc4-4606-9cb0-244d35cddc64@151.101.0.155:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048&security=none&encryption=none&host=zedmodeon237.global.ssl.fastly.net&type=xhttp#US_1734_@Surfboardv2ray
-vless://23995ea7-c186-416d-a715-5f9c06cbfde8@62.60.173.203:47428?path=/&security=none&encryption=none&type=ws#IR_1735_@Surfboardv2ray
-vless://239cfabf-d064-4cfd-8c2a-c74babc1c77b@172.235.128.66:443?flow=&type=xhttp&host=&path=/&mode=stream-one&security=none#US_1736_@Surfboardv2ray
-vless://239cfabf-d064-4cfd-8c2a-c74babc1c77b@172.235.128.66:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#US_1737_@Surfboardv2ray
-vless://239cfabf-d064-4cfd-8c2a-c74babc1c77b@172.235.128.66:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#US_1738_@Surfboardv2ray
-vless://239cfabf-d064-4cfd-8c2a-c74babc1c77b@172.235.128.66:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#US_1739_@Surfboardv2ray
-vless://23c4b3a7-c254-4f59-b019-c0b50e211c20@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#IR_1740_@Surfboardv2ray
-vless://23f340e3-1709-40e2-b4ec-c42cd57a05dd@151.101.3.8:80?type=xhttp&mode=auto&host=joinshhproxybede.com&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#US_1741_@Surfboardv2ray
 vless://23f73698-810f-412d-a105-801a8d95725e@pishgam.sdcards.ir:8080?type=ws&path=/Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---@bluVPNir?ed=2087&host=amiri2.server-dev2.ir&security=none#CA_1742_@Surfboardv2ray
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.130.228:80?type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v18.networkpro.net&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#US_1743_@Surfboardv2ray
 vless://24145c32-ebea-49d0-92d3-e3e089083108@109.122.247.128:31311?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#IR_1744_@Surfboardv2ray
@@ -9998,3 +9987,14 @@ vless://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:443?security=none&enc
 vless://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:443?security=none&encryption=none&host=playstation.com&headerType=http&type=tcp#[]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8881#[]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@54.77.81.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.221:8880?mode=gun&security=none&encryption=none&type=grpc#[]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@85.210.155.7:443#[]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.117.110:443#[]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3SGZadmp1c2Nta2dQWVFucHZYcFJ5@165.232.120.176:80#[]t.me/ConfigsHub
+vless://SAVTEAM5@www.speedtest.net:80?path=%2F%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam%3Fed%3D80&security=none&alpn=http%2F1.1&encryption=none&host=savteam.ariosav.ir&fp=chrome&type=httpupgrade&sni=live.989bull.com#[]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.132:8080#[]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQUFhiOEoyY2lEeWJva1dsN2t4S2Fi@45.144.54.156:51587#[]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@85.210.155.7:443#[]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREE1WWpGaA==@de1.opensocks.site:8388#[]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.132:8080#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.75.165.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
