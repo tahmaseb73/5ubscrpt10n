@@ -1,5 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638800815737110811.paris-panther-aaa.info:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#[]t.me/ConfigsHub
-vless://93489dc6-47a3-4532-b050-6fb193b855e9@germany.khoreshtsabzi.ir:1773?mode=gun&security=none&encryption=none&type=grpc&serviceName=17783vless#[]t.me/MoftConfig
 vless://b8bfb94d-1452-4710-81ea-688be73fbf23@91.107.167.61:59231?security=reality&sni=refersion.com&fp=chrome&pbk=5EjR9Rf2goHc61gMX_quGy54tGSgHAbBfPBJIImCCCI&type=tcp&packetEncoding=xudp&encryption=none#[]t.me/MoftConfig
 vless://9d6f25dd-0445-4efc-bca1-69615e408975@178.239.155.42:51377?path=%2F&security=none&encryption=none&type=ws#[]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.78.163.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
@@ -9998,3 +9996,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNDMwNjY2NS05ZTNlLTQ5ODktYjk2MC0zM2Y2MGQwZGR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNDMwNjY2NS05ZTNlLTQ5ODktYjk2MC0zM2Y2MGQwZGRiNmQ@free.2apzhfa.xyz:31511#[]t.me/MoftConfig
 vless://dfd1b822-3c92-47b9-aba2-8cb28d074655@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#%20Singapore
 trojan://Aimer@211.114.180.156:12383?allowInsecure=0&sni=epcch.ambercc.filegear-sg.me#[]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@67.220.95.102:3306#[]t.me/MoftConfig
+trojan://telegram-id-vlessconfig@13.38.208.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 
