@@ -1,3 +1,4 @@
+vless://53249200-30ff-436f-a032-0bb00605f8f9@104.21.35.247:443?path=%2FMgovppNO6WZwOCU5JqXZxjQ5ILc&security=tls&alpn=http%2F1.1&encryption=none&host=3edcvb.huangshang2030.dpdns.org&fp=chrome&type=ws&sni=3edcvb.huangshang2030.dpdns.org#[]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZGU2OGEyOC1mZmVlLTRkMDYtYjU1OC01MzZiYWUzNTEwZjQ@free.2weradf.xyz:36173#[]t.me/ConfigsHub
 vless://b34520a8-9a0d-4d5d-b42f-c700cf969aee@151.101.114.133:80?security=none&type=xhttp&host=biyatovistavdoray.com.#[]t.me/ConfigsHub
 vless://6486c034-4380-4601-b35b-85ba3a65feb0@151.101.69.22:443?security=tls&sni=barayeazadi.sbs&type=xhttp&host=barayeazadi.sbs&fp=chrome&alpn=h3,h2&allowInsecure=1#[]t.me/ConfigsHub
@@ -9997,4 +9998,3 @@ vless://5614c870-e60a-4a68-9505-6b49a1820a68@Tabriz-Website.thorav.ir:443?mode=g
 vless://84c1aca2-d9d4-4f6d-8f31-f38ba5df12e6@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s27.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s27.elitemizban.ir&fp=chrome#[]t.me/ConfigsHub
 vless://84c1aca2-d9d4-4f6d-8f31-f38ba5df12e6@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir&fp=chrome#[]t.me/ConfigsHub
 trojan://telegram-id-directvpn@35.181.19.90:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-vless://9518a529-b772-4aa5-ab9b-8574d390f7f4@speedtest.net:80?mode=auto&path=%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray....%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray%3Fed%3D2480&security=none&encryption=none&host=jointo_vistav2ray.ir&type=xhttp#[]t.me/ConfigsHub
