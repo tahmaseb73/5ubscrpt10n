@@ -1,5 +1,3 @@
-vless://44eb5324-0706-4b60-9dba-31988a9071a8@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#@MoftConfigThe NetherlandsAmsterdamping:32.26ms
 vless://9ad4e77b-6df4-43e5-b205-67da496cf8ec@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.developsp.ir.vegaskala.com.&encryption=none#@MoftConfigCanadaTorontoping:15.75ms
 vless://44eb5324-0706-4b60-9dba-31988a9071a8@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[]t.me/MoftConfig
 vless://f9cbd671-3828-4ce5-b485-f7654a8a7cfd@join.VPNCUSTOMIZE.fast.hosting-ip.com:80?path=%2FTelegram%E2%80%94VPNCUSTOMIZE%3Fed2048&security=none&encryption=none&host=Channel-VPNCUSTOMIZE.ir&type=ws#[]t.me/ConfigsHub
@@ -9998,3 +9996,5 @@ vless://59359b9c-3a3c-471e-9cc9-3cc4d49b07ed@se5.reata.ir:2026?security=none&enc
 vless://2dd4c5b1-e689-4337-b185-cc197afdcfa3@151.101.130.228:80?security=none&type=ws&host=joinshhproxybedeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#[]t.me/MoftConfig
 trojan://Aimer@108.165.152.29:2096?sni=agept.ambercc.filegear-sg.me#[]t.me/MoftConfig
 vless://2dd4c5b1-e689-4337-b185-cc197afdcfa3@151.101.130.228:80?security=none&type=ws&host=joinshhproxybedeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#[]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI@hk02.x.quickcht3.club:52612#@MoftConfigHong KongWanchaiping:270.05ms
+trojan://Aimer@108.165.152.29:2096?sni=agept.ambercc.filegear-sg.me#Telegram:@IP_CF

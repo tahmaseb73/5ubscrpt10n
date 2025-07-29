@@ -1,5 +1,3 @@
-vless://95701d09-280b-478f-9812-ae2947cc1b1e@91.107.246.46:443/?type=tcp&encryption=none#[]t.me/ConfigsHub
-vless://d8585e49-e946-479f-bc3d-5542cfc12e0a@54.37.78.215:43305/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[]t.me/ConfigsHub
 trojan://b44da489-fc70-4fd0-8997-a83b51f59267@18.236.255.239:20230?security=tls&sni=us003.421421.xyz&allowInsecure=1#[]t.me/ConfigsHub
 vless://telegram-ArV2ray@193.46.81.82:80/?type=ws&encryption=none&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry#[]t.me/ConfigsHub
 vless://43ea87c7-ceb0-4c2a-9fb8-74a522127ece@passer03.ultranumber.top:21257/?encryption=none&host=speedtest.net&type=tcp&headerType=http#[]t.me/ConfigsHub
@@ -9998,3 +9996,5 @@ vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@54.165.173.110:80?security=none&enc
 vless://3e7cad72-abb2-4400-95a8-747c563ed1aa@www.speedtest.net:443?encryption=none&security=tls&sni=DE-ComPany-MehrdaD-Team.MeHrDaDCoMpcPeNQ.IR.&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&type=httpupgrade&host=DE-ComPany-MehrdaD-Team.MeHrDaDCoMpcPeNQ.IR.&path=%2Fwss9000%3Fed%3D2560# @MoftConfigCanada
 trojan://telegram-id-directvpn@52.58.130.75:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none# @MoftConfigGermany
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?encryption=none&security=none&type=grpc# @MoftConfigThe Netherlands
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.17.148.22:443?encryption=none&security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251%23%2F%3Fed%3DTELEGRAM_MARAMBASHI_MARAMBASHI%2F%3Fed%3D2048# @MoftConfigCanada
+trojan://telegram-id-directvpn@52.58.130.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
