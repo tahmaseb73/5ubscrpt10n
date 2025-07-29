@@ -1,12 +1,3 @@
-vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.8:19151?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#  @V2xay
-vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.8:19151?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@FreakConfig
-vless://850479d3-f804-4f12-a541-9bb3d083bf20@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
-vless://851517dc-09a9-4716-bf11-e386a5b648fa@t.nargil00.site:10260?encryption=none&security=none&type=tcp&headerType=http#@Daily_Configs
-vless://851517dc-09a9-4716-bf11-e386a5b648fa@t.nargil00.site:10260?security=&encryption=none&headerType=http&type=tcp#@ata_connect       
-vless://851517dc-09a9-4716-bf11-e386a5b648fa@t.nargil00.site:10260?security=none&encryption=none&headerType=http&type=tcp#All@Rk_VPS
-vless://851517dc-09a9-4716-bf11-e386a5b648fa@t.nargil00.site:10260?security=none&encryption=none&headerType=http&type=tcp#      @Config_Rayegan
-vless://852006d4-ea05-4e34-bffc-305f8a462ce3@194.182.79.142:11744?mode=gun&security=reality&encryption=none&pbk=ujynIXoajPwSKKq9SSN2Gc23KEyIl51rAvsrgj1jXDE&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=cb3d822354e725#@Capoit
-vless://852006d4-ea05-4e34-bffc-305f8a462ce3@194.182.79.142:11744?mode=gun&security=reality&encryption=none&pbk=ujynIXoajPwSKKq9SSN2Gc23KEyIl51rAvsrgj1jXDE&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=cb3d822354e725#Telegram : @Confingman1
 vless://852006d4-ea05-4e34-bffc-305f8a462ce3@194.182.79.142:11744?mode=gun&security=reality&encryption=none=#@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&pbk=ujynIXoajPwSKKq9SSN2Gc23KEyIl51rAvsrgj1jXDE&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=cb3d822354e725#@bored_vpn
 vless://852006d4-ea05-4e34-bffc-305f8a462ce3@194.182.79.142:11744?mode=gun&security=reality&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&pbk=ujynIXoajPwSKKq9SSN2Gc23KEyIl51rAvsrgj1jXDE&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=cb3d822354e725#All @ghalagyann
 vless://85323542-f2b1-44d0-8b0c-1c4196bc38f2@91.99.133.135:1598?security=reality&encryption=none&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=0b886008af8942c3# | @External_Net
@@ -6441,7 +6432,6 @@ ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636#%F0%9F%87%AF%F0%9F%87%B
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?#%E6%9C%AA%E7%9F%A5%2080.0KB%2Fs
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.13:9141?sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF3
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:41225?sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
-trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?#%E6%9C%AA%E7%9F%A52
 trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?sni=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#%E6%9C%AA%E7%9F%A53
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:16158?sni=www.baidu.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083?type=ws&sni=vle.amclubdns.dpdns.org&path=/?ed=2560&PROT_TYPE=trojan&host=vle.amclubdns.dpdns.org#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
@@ -6449,6 +6439,7 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?sni=rc6.freegua
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF4
 trojan://xxoo@us.blazeppn.info:443?sni=us.blazeppn.info#US2%2037.4KB%2Fs
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.13:1122?sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF5
+trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#%E6%9C%AA%E7%9F%A55
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNiIsImFkZCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BTElJTEFQUk8vdjJyYXlORy1Db25maWciLCJwb3J0IjoiNDMzIiwiaWQiOiJGcmVlIiwiYWlkIjoiMCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1IiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjYifQ==
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?sni=rc8.freeguard.org#US3%2090.3KB%2Fs
 trojan://da631e61-bead-4c9c-8bd7-7bea82f736ae@js-12f83a8c.kaiqsz.com:12221?allowInsecure=0&sni=nkrpjj.cn#%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -8264,7 +8255,6 @@ trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.pl
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:4447?sni=www.baidu.com#%E6%9C%AA%E7%9F%A58
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:53248?sni=www.baidu.com#%E6%9C%AA%E7%9F%A59
 trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#%E6%9C%AA%E7%9F%A510
-ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 trojan://da631e61-bead-4c9c-8bd7-7bea82f736ae@js-12f83a8c.kaiqsz.com:12221?sni=nkrpjj.cn#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF3
 trojan://trojan@91.193.58.0:443?type=ws&sni=wahaha.yingyangkuaixian.dpdns.org&path=/&host=wahaha.yingyangkuaixian.dpdns.org#%E6%9C%AA%E7%9F%A511
 trojan://tg-fq521free@194.76.18.129:443?type=ws&sni=torjan.xn--xhq44j.eu.org&path=/&host=torjan.xn--xhq44j.eu.org#%E6%9C%AA%E7%9F%A512
@@ -9998,3 +9988,13 @@ vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@45.159.219.26:443/?path=/WrQunvc9WR
 vless://e2f9e720-da8c-49ea-b811-09b03979fde4@dl3.vegfoods.ir:7074?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#@v2ray_configs_pools
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray_configs_pools
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray_configs_pools
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&security=&encryption=none&type=grpc# vipV2rayNGnp
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?security=&type=grpc&encryption=none#ae_proxy
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray_configs_pools
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880?encryption=none&security=none&type=grpc&mode=gun#t.me/entryNET/config=1837970232027473
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray_configs_pools
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none=v2ray_configs_pools----@v2ray_configs_pools&encryption=none&type=grpc#@v2ray_configs_pools
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray_configs_pools
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray_configs_pools
+vless://e5a6933d-c18b-4433-899b-b8947503b3a6@free-gb.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#Telegram:@config_proxy 
+vless://e5c3ce9a-91a7-45f0-a526-2d01c028e9cb@v2raybluecrystal3.3dfigures.ir:80?mode=auto&path=/v2raybluecrystal&security=reality&encryption=none&pbk=MAbdiAkVVSZWyXEn8FUdSU0XiWyZRUAd-nU3ShX3TRw&host=v2raybluecrystal2.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=ebfef96e18#  |   
