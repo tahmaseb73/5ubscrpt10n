@@ -1,3 +1,31 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.75.251.92:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 
+vless://e73c97ad-af2e-49e9-8321-5e217ca57124@104.17.147.22:2053/?type=ws&encryption=none&flow=&host=mahsa.965871a.store&path=%2FmM3VP46oYCTZgh56&security=tls&sni=mAHsA.965871a.stORe#@MoftConfigCanadaTorontoping:8.11ms
+trojan://telegram-id-directvpn@3.75.251.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://dc60df50-8c99-3d27-aa81-cd93e16de9fe@gy.58n.net:56783?sni=z266.hongkongnode.top#[]t.me/ConfigsHub
+vless://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza2.lalash.ir:80?mode=auto&path=%2F&security=&encryption=none&host=fsafe-izaa.global.ssl.fastly.net&type=xhttp#[]t.me/ConfigsHub
+ss://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=%2F%3Fed%3D2048&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v09.pronetwork.com#@MoftConfigUnited StatesSan Franciscoping:7.54ms
+trojan://telegram-id-privatevpns@15.236.63.215:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2FTelegram-mtmvpn%3Fed%3D2560#[]t.me/MoftConfig
+trojan://Aimer@167.68.4.199:2053?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#[]t.me/ConfigsHub
+trojan://NISHIKUITAN111@89.116.46.33:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#Telegram:@IP_CF
+trojan://telegram-id-privatevpns@15.236.63.215:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/MoftConfig
+trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?security=tls&type=ws&sni=iSaa1.PAGeS.DeV&path=/&host=iSAA1.paGEs.DEV#Telegram:@IP_CF
+vless://c83c3b86-6520-4813-b16e-a0d3a8a9ee2c@sw.black666.info:55956?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@MoftConfigIranTehrnping:102.17ms
+vless://44a6e3f3-a45b-446c-8c84-4fd753a4f62d@104.21.32.1:8080?type=ws&host=gshsgshs.jqxkqk.workers.dev&path=%2FXXfocbvkoSfsY9jl%3Fed%3D2560#@MoftConfigCanadaTorontoping:7.97ms
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2FTelegram-mtmvpn%3Fed%3D2560#[]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#[]t.me/ConfigsHub
+trojan://blue2024@188.114.99.102:443?sni=hb.lii2010.us.kg#[]t.me/MoftConfig
+vless://70fe76b8-d12c-41dc-90f5-193a316de512@151.101.2.165:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=hr.fastip.org&type=xhttp#[]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.75.251.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
+trojan://NISHIKUITAN111@89.116.46.33:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#@MoftConfigUnited KingdomLondonping:8.45ms
+trojan://TUFfeTYV56@104.21.64.1:2096?security=tls&type=httpupgrade&sni=esna.twn24.ir&path=/?ed=2048&host=esna.twn24.ir#[]t.me/ConfigsHub
+vless://000273dd-8af5-4c53-b47b-c3c49bcf9e2a@151.101.3.8:80?mode=auto&path=%2FTelegram%40viturey%3Fed%3D2048&security=none&encryption=none&host=bpi7.global.ssl.fastly.net&type=xhttp#@MoftConfigUnited StatesSan Franciscoping:7.29ms
+vless://8475eecb-70db-419a-8a0e-c98d13d1cb3e@151.101.3.8:80?security=none&type=ws&host=vistapcit.com&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist#[]t.me/MoftConfig
+trojan://dc60df50-8c99-3d27-aa81-cd93e16de9fe@gy.58n.net:56783?sni=z266.hongkongnode.top#[]t.me/MoftConfig
+trojan://45f98d84-f1ab-4783-989e-e3b930913665@151.101.242.172:443?path=%2Ftgbypass&security=tls&alpn=h2&host=Germandiginoe.com&fp=chrome&type=ws&sni=cdn.arvancloud.ir#@MoftConfigFranceStrasbourgping:41.69ms
+trojan://Aimer@167.68.4.199:2053?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#[]t.me/MoftConfig
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080/?type=ws&encryption=none&flow=&host=1750293123492.china.baidu.bilibili.china.aeko.cn&path=%2F%3Fed%3D2048#@MoftConfigUnited KingdomLondonping:8.01ms
+vless://8475eecb-70db-419a-8a0e-c98d13d1cb3e@151.101.3.8:80?security=none&type=ws&host=vistapcit.com&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist#[]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.75.251.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/ConfigsHub
 trojan://TUFfeTYV56@104.21.64.1:2096?security=tls&type=httpupgrade&sni=esna.twn24.ir&path=/?ed=2048&host=esna.twn24.ir#[]t.me/MoftConfig
 vless://8813f745-74f7-4d3e-bd32-b31a877e16db@91.99.71.91:36617?mode=gun&security=reality&encryption=none&pbk=uJehQIimFAu7bJsl2eFfv4qPA8cx2fSHRZGvnjBJBxo&fp=random&spx=%2F&type=grpc&sni=tgju.org&sid=005ea5#[]t.me/ConfigsHub
@@ -9970,31 +9998,3 @@ vless://ccbaaba-aabc-abac-bacd-abbccccbabaa@127.0.0.1:2080?security=tls&type=tcp
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.246.47.66:2222?security=none&type=tcp#[]t.me/ConfigsHub
 trojan://ccbaaba-aabc-abac-bacd-abbccccbabaa@127.0.0.1:2080?security=tls&type=tcp#[]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvOXY5TlMyTzBzeGViTm14dlowNnNn@a-config.96hezar.ir:4017#[]t.me/ConfigsHub
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.153:8443?path=%2FTelegram%40%2F%3Fed%3D2048&security=tls&encryption=none&host=1750293059309.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&fp=randomized&type=ws&sni=1750293059309.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua#[]t.me/ConfigsHub
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.89.19.254:2222?security=none&type=tcp#[]t.me/ConfigsHub
-vless://60a89867-bef3-4cfc-b56a-ea8a27febb2d@s.seyedshakan.ir:2080?security=none&type=tcp&headerType=http&path=%2Fheu6FayCxmdp0097Cajz&host=#[]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#[]t.me/ConfigsHub
-trojan://cbacaba-aacb-abca-adbc-ccababbbaacc@127.0.0.1:8080?security=tls&type=tcp#[]t.me/ConfigsHub
-vless://60a89867-bef3-4cfc-b56a-ea8a27febb2d@voip.fast.hosting-ip.com:80?security=none&type=xhttp&headerType=&path=%2F&host=vcheatyour-name.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#[]t.me/ConfigsHub
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.223.44.186:2222?security=none&type=tcp#[]t.me/ConfigsHub
-vless://602360c3-5bbf-4b7a-bd57-467b3ac0051f@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#[]t.me/ConfigsHub
-vless://d42bb804-6ce4-422a-9dae-5eeea90126fc@51.210.158.168:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=2053vless&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#[]t.me/ConfigsHub
-vless://937b6457-4290-428e-9a33-f96ec4941930@172.67.68.199:8443?security=tls&sni=J0in-Te1egram-eiiim.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store#[]t.me/ConfigsHub
-vless://752811df-c191-4f5f-acaa-ce6399a22024@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2Flpiipkws&security=tls&encryption=none&host=638879413057214934.kish-prx-dnraaad.info&type=ws&sni=638879413057214934.kish-prx-dnraaad.info#[]t.me/ConfigsHub
-trojan://Aimer@199.34.228.50:2053?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[]t.me/ConfigsHub
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.242.165.84:2222?security=none&type=tcp#[]t.me/ConfigsHub
-trojan://Aimer@44.224.24.91:443?sni=ngepx.ambercc.filegear-sg.me&allowInsecure=0#[]t.me/ConfigsHub
-ss://bm9uZTpjYWFhYmNiLWNhYWItY2FiYS1kY2FiLWNjYWFiY2NiYmJhYQ==@127.0.0.1:2080#[]t.me/ConfigsHub
-vless://edeffe9e-4725-428e-a1c0-7b6a96124f8d@194.182.79.163:10108?mode=gun&security=reality&encryption=none&pbk=wGHsRP4taNR7OgyRPba24krQVhH9ZRbR7pvDxVsGjj0&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=ed#[]t.me/ConfigsHub
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@15.168.193.88:443?security=tls&sni=sg02.trojanyyds.xyz&type=tcp&allowInsecure=1#[]t.me/ConfigsHub
-trojan://telegram-id-v2rayvpnchannel@13.60.113.79:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[]t.me/ConfigsHub
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.88.42.159:2222?security=none&type=tcp#[]t.me/ConfigsHub
-vless://bfe63cc5-412d-4aa7-b04e-75c9d52b5831@104.21.69.44:80?security=none&type=httpupgrade&host=FySuMyYk3.aMirsiTesos.sItE.#[]t.me/ConfigsHub
-vless://05ddbdba-a33d-4424-b113-0d305740635d@108.162.195.157:443?security=tls&sni=uuorkx.p1vpn.com&type=ws&host=uuorkx.p1vpn.com&path=/wss&alpn=http/1.1#[]t.me/ConfigsHub
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.237.114.76:2222?security=none&type=tcp#[]t.me/ConfigsHub
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.201.77:443#[]t.me/ConfigsHub
-trojan://Aimer@206.238.236.137:8443?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[]t.me/ConfigsHub
-vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@89.47.201.163:23737?mode=gun&security=reality&encryption=none&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&fp=chrome&type=grpc&sni=varzesh3.com&sid=7c0b6c88fe5c#[]t.me/ConfigsHub
-vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=tgju.org&sid=e701a013553059ba#[]t.me/ConfigsHub
-vless://88d05a33-ff36-415d-9d2c-7e1e8468e7e8@188.114.96.3:8443?path=%2FTELEGRAM-%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=w325.pages.dev&fp=chrome&type=ws&sni=w325.pAges.Dev#[]t.me/ConfigsHub
-trojan://Aimer@154.197.64.173:2053?allowInsecure=0&sni=ngepx.ambercc.filegear-sg.me#[]t.me/ConfigsHub
