@@ -1,3 +1,10 @@
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@V2rayNGcloud
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@bad_raqs
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@warp_city
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@ai_duet  @v2rayngsupbot
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@ai_duet
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray 
+vless://7b6ef73c-44c4-4592-b20e-73d3f277b2af@104.16.53.11:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  
 vless://7b93b058-f902-48a1-90a0-918ab81fb9fc@94.232.168.16:30501?security=&encryption=none&headerType=none&type=tcp# @Alfa_v2ray_ng | 
 vless://7b93b058-f902-48a1-90a0-918ab81fb9fc@94.232.168.16:30501?security=none&encryption=none&headerType=none&type=tcp#  @V2xay
 vless://7bb9c746-42f0-48ad-b404-1236f0c44042@65.109.208.147:30652?type=tcp&path=/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray&host=radar.arvancloud.ir&headerType=http&security=none#@BanV2ray
@@ -9991,10 +9998,3 @@ vless://53a17fed-4008-e5d0-52d0-6cfe6d940f04@us2215.need9ping.ir:5901?security=n
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.57:8880?path=/Channel id: @ShadowProxy66?ed=2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws# vipV2rayNGnp
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.57:8880?security=&type=ws&path=/Channel id: @ShadowProxy66?ed=2560&host=reedfree8mahsang2.redorg.ir&encryption=none#ae_proxy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.242:80?path=TelegramChannel id: @ShadowProxy66 /?ed=2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws# vipV2rayNGnp
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.231.252:80?path=TelegramChannel id: @ShadowProxy66 /?ed=2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws# vipV2rayNGnp
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.36.55.123:80?path=/&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws# vipV2rayNGnp
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.135:8880?path=/Channel id: @ShadowProxy66?ed=2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws# vipV2rayNGnp
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.203:8880?path=Telegram@ShadowProxy66/?ed=2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws# vipV2rayNGnp
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=/Telegram@server_free2/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws# @server_free2 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.177:80?path=/Telegram@server_free2/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws# @server_free2 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.138:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram @WangCai2 /?ed=2560#@Daily_Configs
