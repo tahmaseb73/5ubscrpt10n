@@ -1,3 +1,5 @@
+vless://1e547e90-9c6c-4695-9537-15aab4e14aa0@157.230.17.102:19000?security=none&encryption=none&headerType=none&type=tcp#@MoftConfigGermanyBad Oeynhausenping:27.93ms
+vless://0511ddb2-b684-43eb-93db-cb5476a463b8@vi-38322.webnama.com.tr:1535?mode=auto&path=%2FAS&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&fp=chrome&type=xhttp&sni=stackoverflow.com#@MoftConfigGermanyFalkensteinping:35.98ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@62.72.166.20:8880?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#@MoftConfigCuracaoWillemstadping:8.38ms
 vless://51633696-7053-499e-add5-d8473eda3440@64.44.158.121:36800?mode=auto&path=%2Fv2raybluecrystal&security=reality&encryption=none&pbk=NmvXICZbgkr6rRIFHW3btC48PS4WPqI1WMI0zMypRzs&fp=chrome&spx=%2F&type=xhttp&sni=www.microsoft.com&sid=9fd097cb4d#[]t.me/ConfigsHub
 trojan://KW7FfNUocjGWmVO6HOp5tA@net-1.toxi-speed.sbs:2059?security=none&type=tcp&headerType=&path=&host=#[]t.me/ConfigsHub
@@ -9996,5 +9998,3 @@ vless://020f1fc3-02f4-49c4-ae0e-8881ecc82467@speedtest.net:80?mode=auto&path=%2F
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@170.64.220.25:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#[]t.me/ConfigsHub
 vless://bad6c0db-094c-42f7-9cc7-68b738bc0e2e@151.101.3.8:80?mode=auto&path=%2F%40BeFreeWithUs%3Fed%3D2048&security=none&encryption=none&host=kiosyour-name.global.ssl.fastly.net&type=xhttp#[]t.me/ConfigsHub
 vless://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80?type=xhttp&mode=auto&host=reza-aliyari722.global.ssl.fastly.net&path=/#[]t.me/ConfigsHub
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.2.165:80?security=none&type=ws&host=Join--E-L-i-V-2-R-A-Y.net&path=%2Fchannel%2CELiV2RAY-channel%2CELiV2RAY-channel%2CELiV2RAY#[]t.me/ConfigsHub
-vless://2aa80173-4cf7-4165-8689-6ce3caf6b28e@nginx.avaaaal.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=amindc.ir&type=xhttp#[]t.me/ConfigsHub

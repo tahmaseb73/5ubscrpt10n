@@ -1,3 +1,5 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.80.190:443?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev#[]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@34.246.203.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)@MoftConfig
 vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@91.84.113.7:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#[]t.me/ConfigsHub
 trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&headerType=none&type=tcp&sni=x1es-ovh.devefun.net#[]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@16.16.177.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[]t.me/MoftConfig
@@ -9996,5 +9998,3 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.3.186:443?security=tls&sni=p
 vless://7c7d020d-e79c-496e-b672-a617a5631801@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#@MoftConfigUnited KingdomLondonping:33.52ms
 vless://a0b199ec-09c7-4622-8bb6-29abc38ac5ef@104.26.14.85:80?security=none&type=ws&host=AdORiNG-POpULatIOn.OnEeAt.cO.&path=%2F%3Fed%3D2048#[]t.me/ConfigsHub
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.16.1:80?type=ws&host=masaleini.mahsaamini.dpdns.org&path=%2FTM%40AZAFBAYJAB1#[]t.me/MoftConfig
-vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.3.186:443?security=tls&sni=pqh23v5.hiddendom.shop&type=grpc&alpn=h2#[]t.me/ConfigsHub
-trojan://telegram-id-vlessconfig@18.203.133.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 
