@@ -1,12 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@65.20.79.237:8313#4FreeIran-841
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpscUZwUEc5ZDNaWFYydTJvZ29RT0tJ@83.172.138.204:8443#4FreeIran-842
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsdmUzaTNhcUotenhkM2dBNkc3UE5B@176.124.218.95:1080#4FreeIran-843
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpseVc0THVEV0pnSERBbkMzWkRadHNW@81.19.141.45:443#4FreeIran-844
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptQjBMOUhkbko0QmlkWjZBM2xvTUdj@37.235.55.232:8443#4FreeIran-845
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTGxoeDNIZkJ0dkl0TFRm@admin.c4.havij.co:443#4FreeIran-846
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#4FreeIran-847
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWDFxOHN2MTd3QTVMR0RISUhENkpv@91.207.183.63:15720#4FreeIran-848
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZmM5Tk5jbGYyamtqTGxtTkxhV2c4@83.172.139.15:8443#4FreeIran-849
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptbjJzZFlWTTcyYVBrNGNmTXVwWkt0@78.129.140.11:443#4FreeIran-850
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@131.145.123.5:443#4FreeIran-851
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@172.166.8.137:443#4FreeIran-852
@@ -9998,3 +9989,12 @@ vless://89fb8f5a-7647-43e0-970b-76a6f9230699@194.182.79.43:25244?mode=gun&securi
 vless://89fb8f5a-7647-43e0-970b-76a6f9230699@194.182.79.43:25244?mode=gun&security=reality&encryption=none&pbk=ijFQSx90zsplSMSX2iqG5snMFInf1MEJyeeDPV4ozQ8&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=8126fad06ad38b84#4FreeIran-10876
 vless://89fb8f5a-7647-43e0-970b-76a6f9230699@194.182.79.43:25244?mode=gun&security=reality&encryption=none&pbk=ijFQSx90zsplSMSX2iqG5snMFInf1MEJyeeDPV4ozQ8&fp=chrome&spx=/&type=grpc&serviceName=t.me/entryNET&sni=journalofbigdata.springeropen.com&sid=8126fad06ad38b84#4FreeIran-10877
 vless://89fb8f5a-7647-43e0-970b-76a6f9230699@194.182.79.43:25244?mode=gun&security=reality&encryption=none&pbk=ijFQSx90zsplSMSX2iqG5snMFInf1MEJyeeDPV4ozQ8&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=8126fad06ad38b84#4FreeIran-10878
+vless://89fb8f5a-7647-43e0-970b-76a6f9230699@194.182.79.43:25244?mode=gun&security=reality&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&pbk=ijFQSx90zsplSMSX2iqG5snMFInf1MEJyeeDPV4ozQ8&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=8126fad06ad38b84#4FreeIran-10879
+vless://89fb8f5a-7647-43e0-970b-76a6f9230699@194.182.79.43:25244?mode=gun&security=reality&encryption=none=-@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2&pbk=ijFQSx90zsplSMSX2iqG5snMFInf1MEJyeeDPV4ozQ8&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=8126fad06ad38b84#4FreeIran-10880
+vless://8@cert.ir:80?path=%2F&security=none&encryption=none&host=ghbi.ir&type=ws#4FreeIran-10881
+vless://8a009663-9afa-4f0f-aac0-23e743a89e08@www.speedtest.net:2096?encryption=none&security=tls&sni=638879176706396454.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638879176706396454.amsterdam-prx-dnraaal.info&path=/zwtnbvws#4FreeIran-10882
+vless://8a009663-9afa-4f0f-aac0-23e743a89e08@www.speedtest.net:2096?path=%2Fzwtnbvws&security=tls&encryption=none&host=638879176706396454.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706396454.amsterdam-prx-dnraaal.info#4FreeIran-10883
+vless://8a009663-9afa-4f0f-aac0-23e743a89e08@www.speedtest.net:2096?path=/zwtnbvws&security=tls&encryption=none&host=638879176706396454.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706396454.amsterdam-prx-dnraaal.info#4FreeIran-10884
+vless://8a06cca1-d3da-4f66-bd2f-75ff5ee24163@104.21.35.39:443?path=/vMGASZfOp-9l8Xdu?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=ppaL03.Ally-hIRthE.woRkErs.DeV&fp=chrome&type=ws&sni=Ppal03.ally-Hirthe.wOrKERs.DEv#4FreeIran-10885
+vless://8a0d18ab-b2ee-4e4e-b990-05b379b198a6@151.101.67.8:80?mode=auto&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#4FreeIran-10886
+vless://8a0d18ab-b2ee-4e4e-b990-05b379b198a6@151.101.67.8:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#4FreeIran-10887
